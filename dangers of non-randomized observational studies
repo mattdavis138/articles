@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title></title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ <br/>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft10{font-size:21px;font-family:Times;color:#000000;}
+	.ft11{font-size:13px;font-family:Times;color:#000000;}
+	.ft12{font-size:7px;font-family:Times;color:#000000;}
+	.ft13{font-size:6px;font-family:Times;color:#000000;}
+	.ft14{font-size:11px;font-family:Times;color:#000000;}
+	.ft15{font-size:9px;font-family:Times;color:#000000;}
+	.ft16{font-size:15px;font-family:Times;color:#000000;}
+	.ft17{font-size:6px;font-family:Times;color:#0000ff;}
+	.ft18{font-size:9px;font-family:Times;color:#0000ff;}
+	.ft19{font-size:5px;font-family:Times;color:#0000ff;}
+	.ft110{font-size:10px;font-family:Times;color:#000000;}
+	.ft111{font-size:10px;font-family:Times;color:#666666;-moz-transform: matrix(         0,          1,         -1,          0, 0, 0);-webkit-transform: matrix(         0,          1,         -1,          0, 0, 0);-o-transform: matrix(         0,          1,         -1,          0, 0, 0);-ms-transform: matrix(         0,          1,         -1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+	.ft112{font-size:11px;line-height:16px;font-family:Times;color:#000000;}
+	.ft113{font-size:9px;line-height:14px;font-family:Times;color:#000000;}
+	.ft114{font-size:9px;line-height:15px;font-family:Times;color:#000000;}
+	.ft115{font-size:10px;line-height:16px;font-family:Times;color:#000000;}
+	.ft116{font-size:13px;line-height:18px;font-family:Times;color:#000000;}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<div id="page1-div" style="position:relative;width:918px;height:1186px;">
+<img width="918" height="1186" src="target001.png" alt="background image"/>
+<p style="position:absolute;top:169px;left:86px;white-space:nowrap" class="ft10">The&#160;dangers&#160;of&#160;non-randomized,&#160;observational&#160;studies:&#160;experience</p>
+<p style="position:absolute;top:198px;left:297px;white-space:nowrap" class="ft10">from&#160;the&#160;COVID-19&#160;epidemic</p>
+<p style="position:absolute;top:247px;left:322px;white-space:nowrap" class="ft11">Andrew&#160;Hill</p>
+<p style="position:absolute;top:244px;left:403px;white-space:nowrap" class="ft12">1</p>
+<p style="position:absolute;top:247px;left:414px;white-space:nowrap" class="ft11">and&#160;Manya&#160;Mirchandani</p>
+<p style="position:absolute;top:244px;left:582px;white-space:nowrap" class="ft12">2</p>
+<p style="position:absolute;top:247px;left:589px;white-space:nowrap" class="ft11">*</p>
+<p style="position:absolute;top:281px;left:116px;white-space:nowrap" class="ft13">1</p>
+<p style="position:absolute;top:284px;left:122px;white-space:nowrap" class="ft14">Department&#160;of&#160;Pharmacology&#160;and&#160;Therapeutics,&#160;University&#160;of&#160;Liverpool,&#160;Liverpool&#160;L7&#160;3NY,&#160;UK;</p>
+<p style="position:absolute;top:281px;left:678px;white-space:nowrap" class="ft13">2</p>
+<p style="position:absolute;top:284px;left:684px;white-space:nowrap" class="ft14">Faculty&#160;of&#160;Medicine,</p>
+<p style="position:absolute;top:300px;left:321px;white-space:nowrap" class="ft14">Imperial&#160;College&#160;London,&#160;London&#160;SW7&#160;2BX,&#160;UK</p>
+<p style="position:absolute;top:331px;left:307px;white-space:nowrap" class="ft15">*Corresponding&#160;author.&#160;E-mail:&#160;<a href="mailto:manya.6269@gmail.com">manya.6269@gmail.com</a></p>
+<p style="position:absolute;top:362px;left:127px;white-space:nowrap" class="ft112">In&#160;regulatory&#160;evaluations,&#160;high-quality&#160;randomized&#160;controlled&#160;trials&#160;(RCTs)&#160;are&#160;considered&#160;the&#160;gold&#160;standard&#160;for<br/>assessing&#160;the&#160;ef</p>
+<p style="position:absolute;top:376px;left:227px;white-space:nowrap" class="ft14">ﬁcacy&#160;of&#160;medical&#160;interventions.&#160;However,&#160;during&#160;the&#160;COVID-19&#160;pandemic,&#160;the&#160;urgent&#160;need</p>
+<p style="position:absolute;top:395px;left:127px;white-space:nowrap" class="ft112">for&#160;treatment&#160;options&#160;led&#160;to&#160;regulatory&#160;approvals&#160;being&#160;made&#160;based&#160;on&#160;evidence&#160;from&#160;non-randomized,<br/>observational&#160;studies.&#160;In&#160;this&#160;study&#160;we&#160;contrast&#160;results&#160;from&#160;observational&#160;studies&#160;and&#160;RCTs&#160;of&#160;six&#160;drugs&#160;to&#160;treat<br/>COVID-19&#160;infection.&#160;Across&#160;a&#160;range&#160;of&#160;studies&#160;evaluating&#160;hydroxychloroquine,&#160;remdesivir,&#160;ivermectin,&#160;aspirin,<br/>molnupiravir&#160;and&#160;tenofovir&#160;for&#160;COVID-19,&#160;there&#160;was&#160;statistically&#160;signi</p>
+<p style="position:absolute;top:442px;left:534px;white-space:nowrap" class="ft14">ﬁcant&#160;evidence&#160;of&#160;beneﬁt&#160;from&#160;non-rando-</p>
+<p style="position:absolute;top:461px;left:127px;white-space:nowrap" class="ft112">mized&#160;observational&#160;studies,&#160;which&#160;was&#160;then&#160;not&#160;seen&#160;in&#160;RCTs.&#160;We&#160;propose&#160;that&#160;all&#160;observational&#160;studies&#160;need&#160;to<br/>be&#160;labelled&#160;as</p>
+<p style="position:absolute;top:475px;left:213px;white-space:nowrap" class="ft14">‘non-randomized’&#160;in&#160;the&#160;title.&#160;This&#160;should&#160;indicate&#160;that&#160;they&#160;are&#160;not&#160;as&#160;reliable&#160;for&#160;evaluating&#160;the</p>
+<p style="position:absolute;top:494px;left:127px;white-space:nowrap" class="ft14">ef</p>
+<p style="position:absolute;top:491px;left:139px;white-space:nowrap" class="ft14">ﬁcacy&#160;of&#160;a&#160;drug&#160;and&#160;should&#160;not&#160;be&#160;used&#160;independently&#160;for&#160;regulatory&#160;approval&#160;decisions.</p>
+<p style="position:absolute;top:556px;left:63px;white-space:nowrap" class="ft16">Introduction</p>
+<p style="position:absolute;top:585px;left:63px;white-space:nowrap" class="ft112">In&#160;regulatory&#160;evaluations,&#160;high-quality&#160;randomized&#160;controlled&#160;trials<br/>(RCTs)&#160;are&#160;considered&#160;the&#160;gold&#160;standard&#160;method&#160;for&#160;assessing&#160;the<br/>ef</p>
+<p style="position:absolute;top:616px;left:74px;white-space:nowrap" class="ft14">ﬁcacy&#160;of&#160;medical&#160;interventions<a href="#page4-div">.</a></p>
+<p style="position:absolute;top:616px;left:254px;white-space:nowrap" class="ft17"><a href="#page4-div">1</a></p>
+<p style="position:absolute;top:618px;left:262px;white-space:nowrap" class="ft14">More&#160;than&#160;110&#160;organizations,&#160;in-</p>
+<p style="position:absolute;top:635px;left:63px;white-space:nowrap" class="ft112">cluding&#160;the&#160;WHO&#160;and&#160;NICE,&#160;use&#160;the&#160;GRADE&#160;criteria&#160;(Grading&#160;of<br/>Recommendations,&#160;Assessment,&#160;Development&#160;and&#160;Evaluation)&#160;to<br/>assess&#160;the&#160;quality&#160;of&#160;evidence&#160;before&#160;making&#160;recommendations&#160;re-<br/>garding&#160;medical&#160;interventions.</p>
+<p style="position:absolute;top:682px;left:242px;white-space:nowrap" class="ft17"><a href="#page4-div">2</a></p>
+<p style="position:absolute;top:684px;left:251px;white-space:nowrap" class="ft14">According&#160;to&#160;GRADE,&#160;as&#160;a&#160;starting</p>
+<p style="position:absolute;top:701px;left:63px;white-space:nowrap" class="ft112">point&#160;on&#160;their&#160;rating&#160;scale,&#160;RCTs&#160;are&#160;given&#160;a&#160;high-quality&#160;rating<br/>and&#160;evidence&#160;from&#160;non-randomized&#160;observational&#160;studies&#160;is&#160;given<br/>a&#160;low-quality&#160;rating.&#160;RCTs&#160;can&#160;then&#160;be&#160;rated&#160;down,&#160;and&#160;observation-<br/>al&#160;studies&#160;can&#160;be&#160;rated&#160;up.&#160;Observational&#160;studies&#160;are&#160;given&#160;a<br/>low-quality&#160;rating&#160;at&#160;the&#160;start&#160;due&#160;to&#160;the&#160;potential&#160;effects&#160;of&#160;residual<br/>confounding&#160;and&#160;bias&#160;in&#160;observational&#160;studies:&#160;these&#160;studies&#160;are&#160;not<br/>randomized,&#160;and&#160;this&#160;may&#160;result&#160;in&#160;differences&#160;between&#160;the&#160;treat-<br/>ment&#160;and&#160;control&#160;arms,&#160;which&#160;may&#160;be&#160;unidenti</p>
+<p style="position:absolute;top:814px;left:343px;white-space:nowrap" class="ft14">ﬁed&#160;but&#160;affect&#160;the</p>
+<p style="position:absolute;top:833px;left:63px;white-space:nowrap" class="ft112">outcome.&#160;The&#160;risk&#160;of&#160;bias&#160;of&#160;observational&#160;studies&#160;can&#160;be&#160;assessed<br/>using&#160;tools&#160;such&#160;as&#160;ROBINS-I<a href="#page4-div">.</a></p>
+<p style="position:absolute;top:847px;left:236px;white-space:nowrap" class="ft17"><a href="#page4-div">3</a></p>
+<p style="position:absolute;top:849px;left:246px;white-space:nowrap" class="ft14">ROBINS-I&#160;evaluates&#160;the&#160;risk&#160;of&#160;bias</p>
+<p style="position:absolute;top:866px;left:63px;white-space:nowrap" class="ft112">in&#160;non-randomized&#160;studies&#160;based&#160;on&#160;seven&#160;domains.&#160;However,&#160;all<br/>RCTs&#160;also&#160;need&#160;to&#160;be&#160;assessed&#160;independently&#160;based&#160;on&#160;their&#160;design,<br/>conduct,&#160;analysis&#160;and&#160;reporting&#160;to&#160;ensure&#160;they&#160;are&#160;of&#160;a&#160;high&#160;quality.<br/>This&#160;is&#160;done&#160;using&#160;the&#160;Cochrane&#160;risk&#160;of&#160;bias&#160;tool,&#160;which&#160;assesses&#160;RCTs<br/>based&#160;on</p>
+<p style="position:absolute;top:929px;left:123px;white-space:nowrap" class="ft14">ﬁve&#160;domains&#160;and&#160;classiﬁes&#160;them&#160;as&#160;having&#160;a&#160;low&#160;risk,</p>
+<p style="position:absolute;top:948px;left:63px;white-space:nowrap" class="ft14">some&#160;concerns&#160;or&#160;a&#160;high&#160;risk&#160;of&#160;bia<a href="#page4-div">s.</a></p>
+<p style="position:absolute;top:946px;left:274px;white-space:nowrap" class="ft17"><a href="#page4-div">4</a></p>
+<p style="position:absolute;top:965px;left:81px;white-space:nowrap" class="ft14">Observational&#160;studies&#160;include&#160;case&#160;reports,&#160;case&#160;series,&#160;cross-</p>
+<p style="position:absolute;top:981px;left:63px;white-space:nowrap" class="ft14">sectional,&#160;case</p>
+<p style="position:absolute;top:979px;left:150px;white-space:nowrap" class="ft14">–control&#160;and&#160;cohort&#160;studies.&#160;They&#160;can&#160;assist&#160;in&#160;de-</p>
+<p style="position:absolute;top:998px;left:63px;white-space:nowrap" class="ft112">tecting&#160;rare&#160;safety&#160;endpoints.&#160;Also,&#160;they&#160;can&#160;be&#160;used&#160;to&#160;assess&#160;the<br/>ef</p>
+<p style="position:absolute;top:1012px;left:74px;white-space:nowrap" class="ft14">ﬁcacy&#160;and&#160;safety&#160;of&#160;interventions&#160;for&#160;populations&#160;that&#160;fall&#160;outside</p>
+<p style="position:absolute;top:1031px;left:63px;white-space:nowrap" class="ft112">the&#160;strict&#160;inclusion&#160;and&#160;exclusion&#160;criteria&#160;of&#160;RCTs.&#160;Results&#160;from&#160;obser-<br/>vational&#160;studies&#160;generate&#160;hypotheses,&#160;which&#160;can&#160;then&#160;be&#160;validated</p>
+<p style="position:absolute;top:555px;left:467px;white-space:nowrap" class="ft112">in&#160;RCTs.&#160;They&#160;are&#160;not&#160;generally&#160;accepted&#160;as&#160;the&#160;sole&#160;basis&#160;for&#160;the&#160;ap-<br/>proval&#160;of&#160;a&#160;drug<a href="#page4-div">.</a></p>
+<p style="position:absolute;top:569px;left:563px;white-space:nowrap" class="ft17"><a href="#page4-div">1</a></p>
+<p style="position:absolute;top:572px;left:573px;white-space:nowrap" class="ft14">However,&#160;there&#160;has&#160;been&#160;an&#160;emerging&#160;trend&#160;for</p>
+<p style="position:absolute;top:588px;left:467px;white-space:nowrap" class="ft14">using&#160;observational&#160;studies&#160;to&#160;evaluate&#160;the&#160;ef</p>
+<p style="position:absolute;top:586px;left:739px;white-space:nowrap" class="ft14">ﬁcacy&#160;of&#160;drugs&#160;and</p>
+<p style="position:absolute;top:605px;left:467px;white-space:nowrap" class="ft112">make&#160;regulatory&#160;decisions,&#160;particularly&#160;during&#160;the&#160;COVID-19&#160;pan-<br/>demic.&#160;This&#160;is&#160;potentially&#160;due&#160;to&#160;certain&#160;limitations&#160;of&#160;RCTs,&#160;which&#160;re-<br/>duce&#160;the&#160;ability&#160;of&#160;their&#160;results&#160;to&#160;represent&#160;the&#160;general&#160;population<br/>requiring&#160;treatment.&#160;For&#160;example,&#160;RCTs&#160;can&#160;have&#160;strict&#160;inclusion&#160;and<br/>exclusion&#160;criteria,&#160;which&#160;may&#160;not&#160;then&#160;fully&#160;represent&#160;a&#160;target&#160;popu-<br/>lation&#160;to&#160;be&#160;treated.&#160;RCTs&#160;are&#160;typically&#160;expensive&#160;and&#160;may&#160;take&#160;a<br/>long&#160;time&#160;to&#160;plan&#160;and&#160;complete.&#160;These&#160;limitations&#160;of&#160;RCTs&#160;and&#160;the<br/>urgent&#160;need&#160;for&#160;treatment&#160;options&#160;during&#160;the&#160;COVID-19&#160;pandemic<br/>led&#160;to&#160;regulatory&#160;decisions&#160;being&#160;made&#160;based&#160;on&#160;minimum&#160;avail-<br/>able&#160;evidence&#160;from&#160;observational&#160;studies.</p>
+<p style="position:absolute;top:770px;left:485px;white-space:nowrap" class="ft14">In&#160;this&#160;study&#160;we&#160;contrast&#160;results&#160;from&#160;observational&#160;studies</p>
+<p style="position:absolute;top:786px;left:467px;white-space:nowrap" class="ft112">and&#160;RCTs&#160;of&#160;drugs&#160;for&#160;COVID-19.&#160;This&#160;allows&#160;an&#160;evaluation&#160;of<br/>the&#160;consistency&#160;of&#160;results&#160;across&#160;observational&#160;studies&#160;and&#160;RCTs.</p>
+<p style="position:absolute;top:841px;left:467px;white-space:nowrap" class="ft16">Methods</p>
+<p style="position:absolute;top:870px;left:467px;white-space:nowrap" class="ft113">Searches&#160;were&#160;conducted&#160;to&#160;identify&#160;studies&#160;that&#160;evaluated&#160;the&#160;following<br/>potential&#160;treatments&#160;for&#160;COVID-19:&#160;molnupiravir,&#160;remdesivir,&#160;ivermectin,<br/>hydroxychloroquine,&#160;aspirin&#160;and&#160;tenofovir/emtricitabine.&#160;These&#160;treat-<br/>ments&#160;were&#160;selected&#160;because&#160;they&#160;were&#160;widely&#160;evaluated&#160;in&#160;both&#160;rando-<br/>mized&#160;and&#160;non-randomized&#160;studies.</p>
+<p style="position:absolute;top:945px;left:485px;white-space:nowrap" class="ft15">For&#160;the&#160;comparison&#160;analysis&#160;presented&#160;in&#160;Table</p>
+<p style="position:absolute;top:945px;left:734px;white-space:nowrap" class="ft18"><a href="#page2-div">1</a></p>
+<p style="position:absolute;top:945px;left:741px;white-space:nowrap" class="ft15">,&#160;the&#160;largest&#160;available</p>
+<p style="position:absolute;top:960px;left:467px;white-space:nowrap" class="ft114">non-randomized&#160;observational&#160;study&#160;for&#160;each&#160;drug&#160;was&#160;selected&#160;from<br/>PubMed.&#160;During&#160;this&#160;process&#160;any&#160;study&#160;suspected&#160;of&#160;medical&#160;fraud&#160;was<br/>identi</p>
+<p style="position:absolute;top:987px;left:497px;white-space:nowrap" class="ft15">ﬁed&#160;and&#160;excluded.&#160;A&#160;meta-analysis&#160;of&#160;efﬁcacy&#160;from&#160;RCTs&#160;of&#160;each</p>
+<p style="position:absolute;top:1005px;left:467px;white-space:nowrap" class="ft114">drug&#160;was&#160;extracted&#160;from&#160;metaCOVID&#160;on&#160;COVID-NMA&#160;on&#160;10&#160;November<br/><a href="#page5-div">2022.</a></p>
+<p style="position:absolute;top:1017px;left:497px;white-space:nowrap" class="ft19"><a href="#page5-div">19</a></p>
+<p style="position:absolute;top:1020px;left:512px;white-space:nowrap" class="ft15">COVID-NMA&#160;is&#160;a&#160;living&#160;mapping&#160;and&#160;living&#160;systematic&#160;review&#160;of</p>
+<p style="position:absolute;top:1035px;left:467px;white-space:nowrap" class="ft15">COVID-19&#160;trials&#160;supported&#160;by&#160;the&#160;WHO&#160;and&#160;C<a href="#page5-div">ochrane.</a></p>
+<p style="position:absolute;top:1032px;left:774px;white-space:nowrap" class="ft19"><a href="#page5-div">20</a></p>
+<p style="position:absolute;top:1035px;left:790px;white-space:nowrap" class="ft15">COVID-NMA</p>
+<p style="position:absolute;top:1050px;left:467px;white-space:nowrap" class="ft15">has&#160;reduced&#160;its&#160;scope&#160;from&#160;1&#160;March&#160;2022.&#160;However,&#160;most&#160;of&#160;the&#160;key</p>
+<p style="position:absolute;top:1098px;left:63px;white-space:nowrap" class="ft115">©&#160;The&#160;Author(s)&#160;2022.&#160;Published&#160;by&#160;Oxford&#160;University&#160;Press&#160;on&#160;behalf&#160;of&#160;British&#160;Society&#160;for&#160;Antimicrobial&#160;Chemotherapy.&#160;All&#160;rights&#160;reserved.<br/>For&#160;permissions,&#160;please&#160;e-mail:&#160;journals.permissions@oup.com</p>
+<p style="position:absolute;top:1133px;left:819px;white-space:nowrap" class="ft14">1&#160;of&#160;5</p>
+<p style="position:absolute;top:85px;left:63px;white-space:nowrap" class="ft116">J&#160;Antimicrob&#160;Chemother<br/><a href="https://doi.org/10.1093/jac/dkac437">https://doi.org/10.1093/jac/dkac437</a></p>
+<p style="position:absolute;top:245px;left:885px;white-space:nowrap" class="ft111">Downloaded from https://academic.oup.com/jac/advance-article/doi/10.1093/jac/dkac437/6961797 by guest on 09 January 2023</p>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title></title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ <br/>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft20{font-size:9px;font-family:Times;color:#000000;}
+	.ft21{font-size:15px;font-family:Times;color:#000000;}
+	.ft22{font-size:11px;font-family:Times;color:#000000;}
+	.ft23{font-size:11px;font-family:Times;color:#0000ff;}
+	.ft24{font-size:13px;font-family:Times;color:#000000;}
+	.ft25{font-size:6px;font-family:Times;color:#0000ff;}
+	.ft26{font-size:5px;font-family:Times;color:#0000ff;}
+	.ft27{font-size:5px;font-family:Times;color:#000000;}
+	.ft28{font-size:10px;font-family:Times;color:#666666;-moz-transform: matrix(         0,          1,         -1,          0, 0, 0);-webkit-transform: matrix(         0,          1,         -1,          0, 0, 0);-o-transform: matrix(         0,          1,         -1,          0, 0, 0);-ms-transform: matrix(         0,          1,         -1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+	.ft29{font-size:9px;line-height:15px;font-family:Times;color:#000000;}
+	.ft210{font-size:9px;line-height:14px;font-family:Times;color:#000000;}
+	.ft211{font-size:11px;line-height:16px;font-family:Times;color:#000000;}
+	.ft212{font-size:9px;line-height:16px;font-family:Times;color:#000000;}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<div id="page2-div" style="position:relative;width:918px;height:1186px;">
+<img width="918" height="1186" src="target002.png" alt="background image"/>
+<p style="position:absolute;top:732px;left:63px;white-space:nowrap" class="ft210">studies&#160;for&#160;the&#160;drugs&#160;included&#160;in&#160;this&#160;analysis&#160;were&#160;already&#160;published&#160;by&#160;1<br/>March&#160;2022.&#160;If&#160;new&#160;results&#160;were&#160;available&#160;after&#160;1&#160;March&#160;2022,&#160;we&#160;have<br/>included&#160;them&#160;in&#160;the&#160;results&#160;section.</p>
+<p style="position:absolute;top:777px;left:81px;white-space:nowrap" class="ft20">On&#160;metaCOVID,&#160;the&#160;random-effects&#160;model&#160;was&#160;used&#160;and&#160;RCTs&#160;with&#160;a</p>
+<p style="position:absolute;top:792px;left:63px;white-space:nowrap" class="ft210">high&#160;risk&#160;of&#160;bias&#160;were&#160;excluded.&#160;Additionally,&#160;where&#160;available,&#160;results&#160;from<br/>large&#160;RCTs&#160;were&#160;also&#160;included&#160;in&#160;our&#160;analysis.&#160;These&#160;RCTs&#160;compared&#160;each<br/>treatment&#160;with&#160;placebo&#160;or&#160;standard&#160;of&#160;care.&#160;If&#160;a&#160;meta-analysis&#160;for&#160;a&#160;spe-<br/>ci</p>
+<p style="position:absolute;top:834px;left:71px;white-space:nowrap" class="ft20">ﬁc&#160;drug&#160;was&#160;not&#160;presented&#160;on&#160;COVID-NMA,&#160;we&#160;used&#160;the&#160;largest&#160;avail-</p>
+<p style="position:absolute;top:852px;left:63px;white-space:nowrap" class="ft20">able&#160;RCTs&#160;or&#160;other&#160;meta-analyses&#160;instead.</p>
+<p style="position:absolute;top:867px;left:81px;white-space:nowrap" class="ft20">For&#160;studies&#160;of&#160;outpatients,&#160;the&#160;endpoint&#160;assessed&#160;was&#160;hospitalization</p>
+<p style="position:absolute;top:882px;left:63px;white-space:nowrap" class="ft210">or&#160;death.&#160;For&#160;studies&#160;of&#160;inpatients&#160;the&#160;endpoint&#160;of&#160;survival&#160;was&#160;included.<br/>For&#160;studies&#160;evaluating&#160;drugs&#160;to&#160;prevent&#160;infection,&#160;the&#160;rate&#160;of&#160;COVID-19&#160;in-<br/>fection&#160;was&#160;used.</p>
+<p style="position:absolute;top:927px;left:81px;white-space:nowrap" class="ft20">Results&#160;were&#160;summarized&#160;as&#160;risk&#160;ratio&#160;(RR)&#160;and&#160;the&#160;95%&#160;CI.&#160;In&#160;studies</p>
+<p style="position:absolute;top:942px;left:63px;white-space:nowrap" class="ft29">where&#160;the&#160;RR&#160;was&#160;not&#160;provided,&#160;the&#160;raw&#160;data&#160;summaries&#160;for&#160;the&#160;treat-<br/>ment&#160;and&#160;control&#160;groups&#160;were&#160;analysed&#160;in&#160;REVMAN&#160;using&#160;the<br/>random-effects&#160;Mantel</p>
+<p style="position:absolute;top:969px;left:189px;white-space:nowrap" class="ft20">–Haenszel&#160;model&#160;to&#160;calculate&#160;the&#160;RR.&#160;The&#160;two-</p>
+<p style="position:absolute;top:987px;left:63px;white-space:nowrap" class="ft20">sided&#160;signi</p>
+<p style="position:absolute;top:984px;left:119px;white-space:nowrap" class="ft20">ﬁcance&#160;threshold&#160;was&#160;set&#160;at&#160;5%.</p>
+<p style="position:absolute;top:1025px;left:63px;white-space:nowrap" class="ft21">Results</p>
+<p style="position:absolute;top:1054px;left:63px;white-space:nowrap" class="ft22">Table</p>
+<p style="position:absolute;top:1054px;left:99px;white-space:nowrap" class="ft23"><a href="#page2-div">1</a></p>
+<p style="position:absolute;top:1054px;left:111px;white-space:nowrap" class="ft22">shows&#160;the&#160;effects&#160;of&#160;six&#160;treatments&#160;on&#160;hospitalizations,</p>
+<p style="position:absolute;top:1071px;left:63px;white-space:nowrap" class="ft211">survival&#160;and&#160;infection,&#160;comparing&#160;results&#160;from&#160;observational<br/>studies&#160;and&#160;RCTs.&#160;Details&#160;of&#160;each&#160;drug&#160;are&#160;shown&#160;below.</p>
+<p style="position:absolute;top:732px;left:467px;white-space:nowrap" class="ft24">Hydroxychloroquine</p>
+<p style="position:absolute;top:755px;left:467px;white-space:nowrap" class="ft211">In&#160;March&#160;2020,&#160;a&#160;non-randomized&#160;French&#160;open-label&#160;study&#160;with<br/>36&#160;hospitalized&#160;participants&#160;announced&#160;its&#160;results.&#160;This&#160;study<br/>suggested&#160;that&#160;there&#160;was&#160;a&#160;reduction&#160;in&#160;viral&#160;load&#160;in&#160;70%&#160;of&#160;par-<br/>ticipants&#160;treated&#160;with&#160;hydroxychloroquine&#160;compared&#160;with&#160;12.5%<br/>in&#160;the&#160;control&#160;group&#160;(P</p>
+<p style="position:absolute;top:819px;left:611px;white-space:nowrap" class="ft22">=0.001).</p>
+<p style="position:absolute;top:819px;left:664px;white-space:nowrap" class="ft25"><a href="#page5-div">21</a></p>
+<p style="position:absolute;top:822px;left:681px;white-space:nowrap" class="ft22">Following&#160;this,&#160;on&#160;28&#160;March</p>
+<p style="position:absolute;top:838px;left:467px;white-space:nowrap" class="ft211">2020,&#160;the&#160;US&#160;FDA&#160;issued&#160;an&#160;Emergency&#160;Use&#160;Authorization&#160;(EUA)<br/>for&#160;the&#160;use&#160;of&#160;chloroquine&#160;and&#160;hydroxychloroquine&#160;for&#160;hospita-<br/>lized&#160;COVID-19&#160;patients.</p>
+<p style="position:absolute;top:869px;left:612px;white-space:nowrap" class="ft25"><a href="#page5-div">22</a></p>
+<p style="position:absolute;top:871px;left:626px;white-space:nowrap" class="ft22">In&#160;May&#160;2020,&#160;a&#160;non-randomized&#160;study</p>
+<p style="position:absolute;top:888px;left:467px;white-space:nowrap" class="ft211">was&#160;published&#160;in&#160;The&#160;Lancet,&#160;which&#160;suggested&#160;that&#160;hydroxychlor-<br/>oquine&#160;was&#160;associated&#160;with&#160;an&#160;increased&#160;risk&#160;of&#160;death&#160;in&#160;patients<br/>hospitalized&#160;with&#160;CO<a href="#page5-div">VID-19.</a></p>
+<p style="position:absolute;top:918px;left:633px;white-space:nowrap" class="ft25"><a href="#page5-div">23</a></p>
+<p style="position:absolute;top:921px;left:647px;white-space:nowrap" class="ft22">This&#160;study&#160;was&#160;based&#160;on&#160;data&#160;from</p>
+<p style="position:absolute;top:938px;left:467px;white-space:nowrap" class="ft211">Surgisphere,&#160;a&#160;company&#160;that&#160;claimed&#160;to&#160;have&#160;access&#160;to&#160;medical<br/>records&#160;of&#160;100&#160;000&#160;COVID-19&#160;patients.&#160;However,&#160;this&#160;study&#160;was<br/>later&#160;retracted&#160;after&#160;major&#160;inconsistencies&#160;were&#160;identi</p>
+<p style="position:absolute;top:968px;left:793px;white-space:nowrap" class="ft22">ﬁed&#160;in&#160;the</p>
+<p style="position:absolute;top:987px;left:467px;white-space:nowrap" class="ft22">data&#160;from&#160;Surgisphere,&#160;suggesting&#160;it&#160;was&#160;<a href="#page5-div">fabricated.</a></p>
+<p style="position:absolute;top:985px;left:803px;white-space:nowrap" class="ft25"><a href="#page5-div">23</a></p>
+<p style="position:absolute;top:987px;left:822px;white-space:nowrap" class="ft22">On&#160;5</p>
+<p style="position:absolute;top:1004px;left:467px;white-space:nowrap" class="ft22">June&#160;2020,&#160;results&#160;from&#160;the&#160;UK</p>
+<p style="position:absolute;top:1001px;left:659px;white-space:nowrap" class="ft22">’s&#160;randomized&#160;RECOVERY&#160;trial&#160;in</p>
+<p style="position:absolute;top:1021px;left:467px;white-space:nowrap" class="ft22">4716&#160;participants&#160;did&#160;not&#160;suggest&#160;a&#160;bene</p>
+<p style="position:absolute;top:1018px;left:728px;white-space:nowrap" class="ft22">ﬁt&#160;of&#160;hydroxychloro-</p>
+<p style="position:absolute;top:1037px;left:467px;white-space:nowrap" class="ft22">quine&#160;for&#160;mortality.</p>
+<p style="position:absolute;top:1035px;left:588px;white-space:nowrap" class="ft25"><a href="#page5-div">24</a></p>
+<p style="position:absolute;top:1037px;left:605px;white-space:nowrap" class="ft22">On&#160;15&#160;June&#160;2020,&#160;the&#160;FDA&#160;revoked&#160;the</p>
+<p style="position:absolute;top:1054px;left:467px;white-space:nowrap" class="ft22">EUA.</p>
+<p style="position:absolute;top:1051px;left:495px;white-space:nowrap" class="ft25"><a href="#page5-div">25</a></p>
+<p style="position:absolute;top:1054px;left:510px;white-space:nowrap" class="ft22">Despite&#160;this,&#160;observational&#160;studies&#160;indicating&#160;bene</p>
+<p style="position:absolute;top:1051px;left:815px;white-space:nowrap" class="ft22">ﬁts&#160;for</p>
+<p style="position:absolute;top:1070px;left:467px;white-space:nowrap" class="ft211">hydroxychloroquine&#160;continued&#160;to&#160;announce&#160;results.&#160;For&#160;example,<br/>in&#160;August&#160;2020,&#160;a&#160;non-randomized&#160;retrospective&#160;study&#160;based&#160;on</p>
+<p style="position:absolute;top:130px;left:63px;white-space:nowrap" class="ft20">Table&#160;1.&#160;Comparison&#160;of&#160;results&#160;from&#160;non-randomized&#160;and&#160;randomized&#160;trials&#160;of&#160;six&#160;potential&#160;treatments&#160;for&#160;COVID-19</p>
+<p style="position:absolute;top:180px;left:63px;white-space:nowrap" class="ft20">Drug</p>
+<p style="position:absolute;top:163px;left:254px;white-space:nowrap" class="ft20">Non-randomized</p>
+<p style="position:absolute;top:180px;left:284px;white-space:nowrap" class="ft20">study</p>
+<p style="position:absolute;top:163px;left:386px;white-space:nowrap" class="ft20">Estimated&#160;bene</p>
+<p style="position:absolute;top:161px;left:471px;white-space:nowrap" class="ft20">ﬁts&#160;in</p>
+<p style="position:absolute;top:180px;left:382px;white-space:nowrap" class="ft20">non-randomized&#160;study</p>
+<p style="position:absolute;top:180px;left:582px;white-space:nowrap" class="ft20">RCT</p>
+<p style="position:absolute;top:163px;left:699px;white-space:nowrap" class="ft20">Estimated&#160;bene</p>
+<p style="position:absolute;top:161px;left:783px;white-space:nowrap" class="ft20">ﬁts&#160;in</p>
+<p style="position:absolute;top:180px;left:709px;white-space:nowrap" class="ft20">randomized&#160;trials</p>
+<p style="position:absolute;top:207px;left:63px;white-space:nowrap" class="ft20">Drugs&#160;for&#160;hospitalized&#160;patients,&#160;with&#160;the&#160;endpoint&#160;of&#160;mortality</p>
+<p style="position:absolute;top:223px;left:75px;white-space:nowrap" class="ft20">Molnupiravir&#160;(hospitalized)</p>
+<p style="position:absolute;top:223px;left:266px;white-space:nowrap" class="ft20">Wong&#160;et&#160;al.</p>
+<p style="position:absolute;top:221px;left:327px;white-space:nowrap" class="ft26"><a href="#page4-div">5</a></p>
+<p style="position:absolute;top:240px;left:276px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:237px;left:284px;white-space:nowrap" class="ft20">=3712</p>
+<p style="position:absolute;top:223px;left:377px;white-space:nowrap" class="ft20">Mortality:&#160;49%&#160;lower&#160;risk</p>
+<p style="position:absolute;top:240px;left:367px;white-space:nowrap" class="ft20">RR:&#160;0.51&#160;(95%&#160;CI&#160;0.42</p>
+<p style="position:absolute;top:237px;left:483px;white-space:nowrap" class="ft20">–0.61),</p>
+<p style="position:absolute;top:256px;left:412px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:254px;left:420px;white-space:nowrap" class="ft20">&lt;0.00001</p>
+<p style="position:absolute;top:223px;left:565px;white-space:nowrap" class="ft20">MOVe-IN</p>
+<p style="position:absolute;top:221px;left:613px;white-space:nowrap" class="ft26"><a href="#page4-div">6</a></p>
+<p style="position:absolute;top:240px;left:572px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:237px;left:580px;white-space:nowrap" class="ft20">=293</p>
+<p style="position:absolute;top:223px;left:664px;white-space:nowrap" class="ft20">Mortality:&#160;no&#160;signi</p>
+<p style="position:absolute;top:221px;left:759px;white-space:nowrap" class="ft20">ﬁcant&#160;difference</p>
+<p style="position:absolute;top:240px;left:676px;white-space:nowrap" class="ft20">RR:&#160;4.47&#160;(95%&#160;CI&#160;0.60</p>
+<p style="position:absolute;top:237px;left:792px;white-space:nowrap" class="ft20">–33.61),</p>
+<p style="position:absolute;top:256px;left:735px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:254px;left:743px;white-space:nowrap" class="ft20">=0.15</p>
+<p style="position:absolute;top:273px;left:75px;white-space:nowrap" class="ft20">Remdesivir</p>
+<p style="position:absolute;top:273px;left:280px;white-space:nowrap" class="ft20">Gilead</p>
+<p style="position:absolute;top:270px;left:313px;white-space:nowrap" class="ft26"><a href="#page4-div">7</a></p>
+<p style="position:absolute;top:289px;left:276px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:287px;left:284px;white-space:nowrap" class="ft20">=1130</p>
+<p style="position:absolute;top:273px;left:366px;white-space:nowrap" class="ft20">OR:&#160;0.38&#160;(95%&#160;CI&#160;0.22</p>
+<p style="position:absolute;top:270px;left:484px;white-space:nowrap" class="ft20">–0.68),</p>
+<p style="position:absolute;top:289px;left:423px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:287px;left:430px;white-space:nowrap" class="ft20">=0.00</p>
+<p style="position:absolute;top:306px;left:377px;white-space:nowrap" class="ft20">Mortality:&#160;38%&#160;lower&#160;risk</p>
+<p style="position:absolute;top:322px;left:367px;white-space:nowrap" class="ft20">RR:&#160;0.62&#160;(95%&#160;CI&#160;0.40</p>
+<p style="position:absolute;top:320px;left:483px;white-space:nowrap" class="ft20">–0.94),</p>
+<p style="position:absolute;top:339px;left:423px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:336px;left:430px;white-space:nowrap" class="ft20">=0.03</p>
+<p style="position:absolute;top:273px;left:560px;white-space:nowrap" class="ft20">COVID-NMA</p>
+<p style="position:absolute;top:289px;left:569px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:287px;left:577px;white-space:nowrap" class="ft20">=7471</p>
+<p style="position:absolute;top:273px;left:664px;white-space:nowrap" class="ft20">Mortality:&#160;no&#160;signi</p>
+<p style="position:absolute;top:270px;left:759px;white-space:nowrap" class="ft20">ﬁcant&#160;difference</p>
+<p style="position:absolute;top:289px;left:657px;white-space:nowrap" class="ft20">RR:&#160;0.90&#160;(95%&#160;CI&#160;0.72</p>
+<p style="position:absolute;top:287px;left:773px;white-space:nowrap" class="ft20">–1.11),&#160;P=0.47</p>
+<p style="position:absolute;top:355px;left:75px;white-space:nowrap" class="ft20">Ivermectin</p>
+<p style="position:absolute;top:355px;left:266px;white-space:nowrap" class="ft20">Rajter&#160;et&#160;al.</p>
+<p style="position:absolute;top:353px;left:327px;white-space:nowrap" class="ft26"><a href="#page4-div">8</a></p>
+<p style="position:absolute;top:372px;left:280px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:369px;left:288px;white-space:nowrap" class="ft20">=280</p>
+<p style="position:absolute;top:355px;left:377px;white-space:nowrap" class="ft20">Mortality:&#160;40%&#160;lower&#160;risk</p>
+<p style="position:absolute;top:372px;left:367px;white-space:nowrap" class="ft20">RR:&#160;0.60&#160;(95%&#160;CI&#160;0.37</p>
+<p style="position:absolute;top:369px;left:483px;white-space:nowrap" class="ft20">–0.96),</p>
+<p style="position:absolute;top:388px;left:423px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:386px;left:430px;white-space:nowrap" class="ft20">=0.03</p>
+<p style="position:absolute;top:355px;left:560px;white-space:nowrap" class="ft20">COVID-NMA</p>
+<p style="position:absolute;top:372px;left:569px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:369px;left:577px;white-space:nowrap" class="ft20">=1369</p>
+<p style="position:absolute;top:355px;left:664px;white-space:nowrap" class="ft20">Mortality:&#160;no&#160;signi</p>
+<p style="position:absolute;top:353px;left:759px;white-space:nowrap" class="ft20">ﬁcant&#160;difference</p>
+<p style="position:absolute;top:372px;left:657px;white-space:nowrap" class="ft20">RR:&#160;0.77&#160;(95%&#160;CI&#160;0.47</p>
+<p style="position:absolute;top:369px;left:773px;white-space:nowrap" class="ft20">–1.29),&#160;P=0.93</p>
+<p style="position:absolute;top:405px;left:75px;white-space:nowrap" class="ft20">Hydroxychloroquine</p>
+<p style="position:absolute;top:405px;left:263px;white-space:nowrap" class="ft20">Arshad&#160;et&#160;<a href="#page4-div">al.</a></p>
+<p style="position:absolute;top:402px;left:330px;white-space:nowrap" class="ft26"><a href="#page4-div">9</a></p>
+<p style="position:absolute;top:421px;left:276px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:419px;left:284px;white-space:nowrap" class="ft20">=1611</p>
+<p style="position:absolute;top:405px;left:377px;white-space:nowrap" class="ft20">Mortality:&#160;49%&#160;lower&#160;risk</p>
+<p style="position:absolute;top:421px;left:367px;white-space:nowrap" class="ft20">RR:&#160;0.51&#160;(95%&#160;CI&#160;0.41</p>
+<p style="position:absolute;top:419px;left:483px;white-space:nowrap" class="ft20">–0.63),</p>
+<p style="position:absolute;top:438px;left:412px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:435px;left:420px;white-space:nowrap" class="ft20">&lt;0.00001</p>
+<p style="position:absolute;top:405px;left:560px;white-space:nowrap" class="ft20">COVID-NMA</p>
+<p style="position:absolute;top:421px;left:569px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:419px;left:577px;white-space:nowrap" class="ft20">=8655</p>
+<p style="position:absolute;top:405px;left:664px;white-space:nowrap" class="ft20">Mortality:&#160;no&#160;signi</p>
+<p style="position:absolute;top:402px;left:759px;white-space:nowrap" class="ft20">ﬁcant&#160;difference</p>
+<p style="position:absolute;top:421px;left:657px;white-space:nowrap" class="ft20">RR:&#160;1.07&#160;(95%&#160;CI&#160;0.98</p>
+<p style="position:absolute;top:419px;left:773px;white-space:nowrap" class="ft20">–1.17),&#160;P=0.83</p>
+<p style="position:absolute;top:454px;left:75px;white-space:nowrap" class="ft20">Aspirin</p>
+<p style="position:absolute;top:454px;left:264px;white-space:nowrap" class="ft20">Chow&#160;et&#160;al.</p>
+<p style="position:absolute;top:452px;left:324px;white-space:nowrap" class="ft26"><a href="#page5-div">10</a></p>
+<p style="position:absolute;top:471px;left:268px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:468px;left:277px;white-space:nowrap" class="ft20">=112269</p>
+<p style="position:absolute;top:454px;left:377px;white-space:nowrap" class="ft20">Mortality:&#160;23%&#160;lower&#160;risk</p>
+<p style="position:absolute;top:471px;left:367px;white-space:nowrap" class="ft20">RR:&#160;0.77&#160;(95%&#160;CI&#160;0.73</p>
+<p style="position:absolute;top:468px;left:483px;white-space:nowrap" class="ft20">–0.82),</p>
+<p style="position:absolute;top:487px;left:412px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:485px;left:420px;white-space:nowrap" class="ft20">&lt;&#160;0.00001</p>
+<p style="position:absolute;top:454px;left:559px;white-space:nowrap" class="ft20">RECOVER<a href="#page5-div">Y</a></p>
+<p style="position:absolute;top:452px;left:613px;white-space:nowrap" class="ft26"><a href="#page5-div">11</a></p>
+<p style="position:absolute;top:471px;left:565px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:468px;left:573px;white-space:nowrap" class="ft20">=14892</p>
+<p style="position:absolute;top:454px;left:664px;white-space:nowrap" class="ft20">Mortality:&#160;no&#160;signi</p>
+<p style="position:absolute;top:452px;left:759px;white-space:nowrap" class="ft20">ﬁcant&#160;difference</p>
+<p style="position:absolute;top:471px;left:657px;white-space:nowrap" class="ft20">RR:&#160;0·97&#160;(95%&#160;CI&#160;0·90</p>
+<p style="position:absolute;top:468px;left:773px;white-space:nowrap" class="ft20">–1·04),&#160;P=0·33</p>
+<p style="position:absolute;top:504px;left:75px;white-space:nowrap" class="ft212">Tenofovir&#160;disoproxil&#160;fumarate/<br/>emtricitabine</p>
+<p style="position:absolute;top:504px;left:256px;white-space:nowrap" class="ft20">Del&#160;Amo&#160;et&#160;al.</p>
+<p style="position:absolute;top:501px;left:332px;white-space:nowrap" class="ft26"><a href="#page5-div">12</a></p>
+<p style="position:absolute;top:520px;left:272px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:518px;left:280px;white-space:nowrap" class="ft20">=77590</p>
+<p style="position:absolute;top:504px;left:377px;white-space:nowrap" class="ft20">Mortality:&#160;87%&#160;lower&#160;risk</p>
+<p style="position:absolute;top:520px;left:367px;white-space:nowrap" class="ft20">RR:&#160;0.13&#160;(95%&#160;CI&#160;0.01</p>
+<p style="position:absolute;top:518px;left:483px;white-space:nowrap" class="ft20">–2.12),</p>
+<p style="position:absolute;top:537px;left:423px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:534px;left:430px;white-space:nowrap" class="ft20">=0.15</p>
+<p style="position:absolute;top:504px;left:543px;white-space:nowrap" class="ft20">Montejano&#160;et&#160;al.</p>
+<p style="position:absolute;top:501px;left:630px;white-space:nowrap" class="ft26"><a href="#page5-div">13</a></p>
+<p style="position:absolute;top:520px;left:572px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:518px;left:580px;white-space:nowrap" class="ft20">=355</p>
+<p style="position:absolute;top:504px;left:664px;white-space:nowrap" class="ft20">Mortality:&#160;no&#160;signi</p>
+<p style="position:absolute;top:501px;left:759px;white-space:nowrap" class="ft20">ﬁcant&#160;difference</p>
+<p style="position:absolute;top:520px;left:657px;white-space:nowrap" class="ft20">RR:&#160;1.76&#160;(95%&#160;CI&#160;0.52</p>
+<p style="position:absolute;top:518px;left:773px;white-space:nowrap" class="ft20">–5.91),&#160;P=&#160;0.36</p>
+<p style="position:absolute;top:553px;left:63px;white-space:nowrap" class="ft20">Drugs&#160;for&#160;outpatients,&#160;with&#160;the&#160;endpoint&#160;of&#160;hospitalization&#160;or&#160;death</p>
+<p style="position:absolute;top:570px;left:75px;white-space:nowrap" class="ft20">Molnupiravir&#160;(outpatients)</p>
+<p style="position:absolute;top:570px;left:265px;white-space:nowrap" class="ft20">Arbel&#160;et&#160;<a href="#page5-div">al.</a></p>
+<p style="position:absolute;top:567px;left:322px;white-space:nowrap" class="ft26"><a href="#page5-div">14</a></p>
+<p style="position:absolute;top:586px;left:272px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:584px;left:280px;white-space:nowrap" class="ft20">=16131</p>
+<p style="position:absolute;top:570px;left:369px;white-space:nowrap" class="ft20">Hospitalizations:&#160;44%&#160;lower</p>
+<p style="position:absolute;top:586px;left:434px;white-space:nowrap" class="ft20">risk</p>
+<p style="position:absolute;top:603px;left:367px;white-space:nowrap" class="ft20">RR:&#160;0.56&#160;(95%&#160;CI&#160;0.35</p>
+<p style="position:absolute;top:600px;left:483px;white-space:nowrap" class="ft20">–0.90),</p>
+<p style="position:absolute;top:619px;left:423px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:617px;left:430px;white-space:nowrap" class="ft20">=0.02</p>
+<p style="position:absolute;top:570px;left:554px;white-space:nowrap" class="ft20">PANORAMIC&#160;+</p>
+<p style="position:absolute;top:586px;left:551px;white-space:nowrap" class="ft20">MOVe-OUT</p>
+<p style="position:absolute;top:584px;left:609px;white-space:nowrap" class="ft26"><a href="#page5-div">15</a></p>
+<p style="position:absolute;top:584px;left:619px;white-space:nowrap" class="ft27"><a href="#page5-div">,</a></p>
+<p style="position:absolute;top:584px;left:621px;white-space:nowrap" class="ft26"><a href="#page5-div">16</a></p>
+<p style="position:absolute;top:603px;left:565px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:600px;left:573px;white-space:nowrap" class="ft20">=26408</p>
+<p style="position:absolute;top:570px;left:657px;white-space:nowrap" class="ft20">All-cause&#160;hospitalization&#160;or&#160;death:&#160;no</p>
+<p style="position:absolute;top:586px;left:700px;white-space:nowrap" class="ft20">signi</p>
+<p style="position:absolute;top:584px;left:724px;white-space:nowrap" class="ft20">ﬁcant&#160;difference</p>
+<p style="position:absolute;top:603px;left:657px;white-space:nowrap" class="ft20">RR:&#160;0.88&#160;(95%&#160;CI&#160;0.57</p>
+<p style="position:absolute;top:600px;left:773px;white-space:nowrap" class="ft20">–1.33),&#160;P=0.54</p>
+<p style="position:absolute;top:636px;left:63px;white-space:nowrap" class="ft20">Drugs&#160;for&#160;prevention,&#160;with&#160;the&#160;endpoint&#160;of&#160;infection</p>
+<p style="position:absolute;top:652px;left:75px;white-space:nowrap" class="ft212">Tenofovir&#160;disoproxil&#160;fumarate/<br/>emtricitabine</p>
+<p style="position:absolute;top:652px;left:275px;white-space:nowrap" class="ft20">Li&#160;et&#160;al.</p>
+<p style="position:absolute;top:650px;left:313px;white-space:nowrap" class="ft26"><a href="#page5-div">17</a></p>
+<p style="position:absolute;top:669px;left:272px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:666px;left:280px;white-space:nowrap" class="ft20">=13640</p>
+<p style="position:absolute;top:652px;left:376px;white-space:nowrap" class="ft20">Infection:&#160;39%&#160;lower&#160;risk</p>
+<p style="position:absolute;top:669px;left:367px;white-space:nowrap" class="ft20">RR:&#160;0.61&#160;(95%&#160;CI&#160;0.42</p>
+<p style="position:absolute;top:666px;left:483px;white-space:nowrap" class="ft20">–0.89),</p>
+<p style="position:absolute;top:685px;left:423px;white-space:nowrap" class="ft20">P</p>
+<p style="position:absolute;top:683px;left:430px;white-space:nowrap" class="ft20">=0.01</p>
+<p style="position:absolute;top:652px;left:560px;white-space:nowrap" class="ft20">Polo&#160;et&#160;al.</p>
+<p style="position:absolute;top:650px;left:613px;white-space:nowrap" class="ft26"><a href="#page5-div">18</a></p>
+<p style="position:absolute;top:669px;left:572px;white-space:nowrap" class="ft20">n</p>
+<p style="position:absolute;top:666px;left:580px;white-space:nowrap" class="ft20">=456</p>
+<p style="position:absolute;top:652px;left:664px;white-space:nowrap" class="ft20">Infection:&#160;no&#160;signi</p>
+<p style="position:absolute;top:650px;left:760px;white-space:nowrap" class="ft20">ﬁcant&#160;difference</p>
+<p style="position:absolute;top:669px;left:657px;white-space:nowrap" class="ft20">RR:&#160;0.83&#160;(95%&#160;CI&#160;0.47</p>
+<p style="position:absolute;top:666px;left:773px;white-space:nowrap" class="ft20">–1.47),&#160;P=&#160;0.53</p>
+<p style="position:absolute;top:70px;left:63px;white-space:nowrap" class="ft24">Viewpoint</p>
+<p style="position:absolute;top:1137px;left:63px;white-space:nowrap" class="ft22">2&#160;of&#160;5</p>
+<p style="position:absolute;top:245px;left:885px;white-space:nowrap" class="ft28">Downloaded from https://academic.oup.com/jac/advance-article/doi/10.1093/jac/dkac437/6961797 by guest on 09 January 2023</p>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title></title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ <br/>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft30{font-size:11px;font-family:Times;color:#000000;}
+	.ft31{font-size:6px;font-family:Times;color:#0000ff;}
+	.ft32{font-size:13px;font-family:Times;color:#000000;}
+	.ft33{font-size:6px;font-family:Times;color:#000000;}
+	.ft34{font-size:10px;font-family:Times;color:#666666;-moz-transform: matrix(         0,          1,         -1,          0, 0, 0);-webkit-transform: matrix(         0,          1,         -1,          0, 0, 0);-o-transform: matrix(         0,          1,         -1,          0, 0, 0);-ms-transform: matrix(         0,          1,         -1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+	.ft35{font-size:11px;line-height:16px;font-family:Times;color:#000000;}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<div id="page3-div" style="position:relative;width:918px;height:1186px;">
+<img width="918" height="1186" src="target003.png" alt="background image"/>
+<p style="position:absolute;top:130px;left:63px;white-space:nowrap" class="ft35">1611&#160;patients&#160;suggested&#160;that&#160;hydroxychloroquine&#160;reduced&#160;the<br/>risk&#160;for&#160;mortality&#160;by&#160;49%&#160;(P</p>
+<p style="position:absolute;top:144px;left:264px;white-space:nowrap" class="ft30">&lt;0.00001).</p>
+<p style="position:absolute;top:144px;left:332px;white-space:nowrap" class="ft31"><a href="#page4-div">9</a></p>
+<p style="position:absolute;top:146px;left:348px;white-space:nowrap" class="ft30">According&#160;to&#160;a</p>
+<p style="position:absolute;top:163px;left:63px;white-space:nowrap" class="ft35">COVID-NMA&#160;meta-analysis&#160;of&#160;12&#160;RCTs&#160;in&#160;8655&#160;participants,&#160;hy-<br/>droxychloroquine&#160;has&#160;no&#160;signi</p>
+<p style="position:absolute;top:177px;left:243px;white-space:nowrap" class="ft30">ﬁcant&#160;effect&#160;on&#160;28&#160;day&#160;mortality.</p>
+<p style="position:absolute;top:214px;left:63px;white-space:nowrap" class="ft32">Remdesivir</p>
+<p style="position:absolute;top:237px;left:63px;white-space:nowrap" class="ft35">In&#160;April&#160;2020,&#160;the&#160;randomized&#160;Adaptive&#160;COVID-19&#160;Treatment&#160;Trial<br/>(ACTT-1)&#160;conducted&#160;globally&#160;by&#160;the&#160;National&#160;Institutes&#160;of&#160;Health<br/>(NIH)&#160;in&#160;1062&#160;hospitalized&#160;participants&#160;released&#160;results.&#160;The&#160;study<br/>suggested&#160;that&#160;remdesivir&#160;reduced&#160;median&#160;time&#160;to&#160;clinical&#160;recov-<br/>ery&#160;to&#160;10&#160;days&#160;compared&#160;with&#160;15&#160;days&#160;on&#160;placebo&#160;(P</p>
+<p style="position:absolute;top:301px;left:385px;white-space:nowrap" class="ft30">&lt;<a href="#page5-div">0.001).</a></p>
+<p style="position:absolute;top:301px;left:438px;white-space:nowrap" class="ft31"><a href="#page5-div">26</a></p>
+<p style="position:absolute;top:320px;left:63px;white-space:nowrap" class="ft30">This&#160;trial&#160;did&#160;not&#160;show&#160;any&#160;bene</p>
+<p style="position:absolute;top:317px;left:262px;white-space:nowrap" class="ft30">ﬁts&#160;of&#160;remdesivir&#160;for&#160;mortality.</p>
+<p style="position:absolute;top:336px;left:63px;white-space:nowrap" class="ft35">In&#160;May&#160;2020,&#160;the&#160;FDA&#160;authorized&#160;an&#160;EUA&#160;for&#160;remdesivir&#160;use&#160;for<br/>critically&#160;ill&#160;patients&#160;who&#160;required&#160;supplemental&#160;oxygen.</p>
+<p style="position:absolute;top:350px;left:419px;white-space:nowrap" class="ft31"><a href="#page5-div">27</a></p>
+<p style="position:absolute;top:353px;left:437px;white-space:nowrap" class="ft30">In</p>
+<p style="position:absolute;top:369px;left:63px;white-space:nowrap" class="ft35">July&#160;2020,&#160;results&#160;from&#160;a&#160;non-randomized,&#160;comparative&#160;analysis<br/>of&#160;the&#160;Gilead-sponsored&#160;Phase&#160;3&#160;SIMPLE-Severe&#160;trial&#160;in&#160;312&#160;pa-<br/>tients&#160;versus&#160;a&#160;retrospective&#160;cohort&#160;of&#160;818&#160;patients&#160;with&#160;severe<br/>COVID-19&#160;receiving&#160;standard&#160;of&#160;care&#160;were&#160;announced&#160;in&#160;a&#160;press<br/>release.&#160;The&#160;results&#160;suggested&#160;that&#160;remdesivir&#160;reduced&#160;risk&#160;of<br/>mortality&#160;by&#160;62%&#160;(P</p>
+<p style="position:absolute;top:449px;left:186px;white-space:nowrap" class="ft30">=0.001).</p>
+<p style="position:absolute;top:449px;left:239px;white-space:nowrap" class="ft31"><a href="#page4-div">7</a></p>
+<p style="position:absolute;top:452px;left:249px;white-space:nowrap" class="ft30">In&#160;August&#160;2020,&#160;results&#160;from&#160;an-</p>
+<p style="position:absolute;top:468px;left:63px;white-space:nowrap" class="ft35">other&#160;GILEAD-sponsored&#160;RCT&#160;in&#160;584&#160;patients&#160;with&#160;moderate<br/>COVID-19&#160;suggested&#160;that&#160;a&#160;5&#160;day&#160;course&#160;of&#160;remdesivir&#160;produced<br/>a&#160;signi</p>
+<p style="position:absolute;top:499px;left:101px;white-space:nowrap" class="ft30">ﬁcant&#160;improvement&#160;in&#160;clinical&#160;status&#160;while&#160;a&#160;10&#160;day&#160;course</p>
+<p style="position:absolute;top:518px;left:63px;white-space:nowrap" class="ft30">of&#160;the&#160;drug&#160;did&#160;not&#160;have&#160;an&#160;effec<a href="#page5-div">t.</a></p>
+<p style="position:absolute;top:515px;left:273px;white-space:nowrap" class="ft31"><a href="#page5-div">28</a></p>
+<p style="position:absolute;top:518px;left:289px;white-space:nowrap" class="ft30">This&#160;trial&#160;did&#160;not&#160;show&#160;any</p>
+<p style="position:absolute;top:534px;left:63px;white-space:nowrap" class="ft30">bene</p>
+<p style="position:absolute;top:532px;left:93px;white-space:nowrap" class="ft30">ﬁts&#160;of&#160;remdesivir&#160;for&#160;mortality.&#160;Shortly&#160;after&#160;this,&#160;the&#160;FDA&#160;ex-</p>
+<p style="position:absolute;top:551px;left:63px;white-space:nowrap" class="ft35">panded&#160;the&#160;EUA&#160;for&#160;remdesivir&#160;to&#160;include&#160;the&#160;treatment&#160;of&#160;all<br/>hospitalized&#160;patients&#160;with&#160;CO<a href="#page5-div">VID-19.</a></p>
+<p style="position:absolute;top:565px;left:299px;white-space:nowrap" class="ft31"><a href="#page5-div">29</a></p>
+<p style="position:absolute;top:567px;left:320px;white-space:nowrap" class="ft30">According&#160;to&#160;results</p>
+<p style="position:absolute;top:584px;left:63px;white-space:nowrap" class="ft30">from&#160;the&#160;WHO</p>
+<p style="position:absolute;top:581px;left:149px;white-space:nowrap" class="ft30">’s&#160;randomized&#160;placebo-controlled&#160;SOLIDARITY&#160;trial</p>
+<p style="position:absolute;top:600px;left:63px;white-space:nowrap" class="ft30">in&#160;8275&#160;participants,&#160;remdesivir&#160;had&#160;no&#160;signi</p>
+<p style="position:absolute;top:598px;left:326px;white-space:nowrap" class="ft30">ﬁcant&#160;effect&#160;on&#160;mor-</p>
+<p style="position:absolute;top:617px;left:63px;white-space:nowrap" class="ft30">tality.</p>
+<p style="position:absolute;top:614px;left:97px;white-space:nowrap" class="ft31"><a href="#page5-div">30</a></p>
+<p style="position:absolute;top:617px;left:113px;white-space:nowrap" class="ft30">In&#160;a&#160;subgroup&#160;of&#160;patients&#160;who&#160;were&#160;not&#160;already&#160;being</p>
+<p style="position:absolute;top:633px;left:63px;white-space:nowrap" class="ft35">ventilated&#160;at&#160;study&#160;entry&#160;as&#160;well&#160;as&#160;in&#160;a&#160;meta-analysis&#160;of<br/>other&#160;trials,&#160;there&#160;is&#160;an&#160;indication&#160;that&#160;remdesivir&#160;may&#160;reduce<br/>the&#160;risk&#160;of&#160;mortality.</p>
+<p style="position:absolute;top:664px;left:189px;white-space:nowrap" class="ft31"><a href="#page5-div">30</a></p>
+<p style="position:absolute;top:666px;left:205px;white-space:nowrap" class="ft30">These&#160;results&#160;are&#160;uncertain.&#160;Based&#160;on&#160;a</p>
+<p style="position:absolute;top:683px;left:63px;white-space:nowrap" class="ft30">COVID-NMA&#160;meta-analysis&#160;of</p>
+<p style="position:absolute;top:680px;left:246px;white-space:nowrap" class="ft30">ﬁve&#160;RCTs&#160;in&#160;7471&#160;participants,&#160;re-</p>
+<p style="position:absolute;top:699px;left:63px;white-space:nowrap" class="ft30">mdesivir&#160;does&#160;not&#160;have&#160;a&#160;signi</p>
+<p style="position:absolute;top:697px;left:248px;white-space:nowrap" class="ft30">ﬁcant&#160;effect&#160;on&#160;28&#160;day&#160;mortality.</p>
+<p style="position:absolute;top:716px;left:63px;white-space:nowrap" class="ft35">Despite&#160;contradictory&#160;results&#160;from&#160;large&#160;RCTs,&#160;in&#160;October&#160;2020,<br/>the&#160;FDA&#160;approved&#160;remdesivir&#160;for&#160;use&#160;in&#160;all&#160;hospitalized<br/>COVID-19&#160;patients&#160;over&#160;the&#160;age&#160;of&#160;12&#160;yea<a href="#page5-div">rs.</a></p>
+<p style="position:absolute;top:746px;left:329px;white-space:nowrap" class="ft31"><a href="#page5-div">31</a></p>
+<p style="position:absolute;top:783px;left:63px;white-space:nowrap" class="ft32">Ivermectin</p>
+<p style="position:absolute;top:806px;left:63px;white-space:nowrap" class="ft35">In&#160;April&#160;2020,&#160;an&#160;observational&#160;study&#160;based&#160;on&#160;data&#160;from<br/>Surgisphere&#160;suggested&#160;that&#160;ivermectin&#160;reduced&#160;mortality&#160;in<br/>COVID-19&#160;<a href="#page5-div">patients.</a></p>
+<p style="position:absolute;top:837px;left:180px;white-space:nowrap" class="ft31"><a href="#page5-div">32</a></p>
+<p style="position:absolute;top:839px;left:198px;white-space:nowrap" class="ft30">This&#160;led&#160;to&#160;a&#160;substantial&#160;increase&#160;in&#160;the</p>
+<p style="position:absolute;top:856px;left:63px;white-space:nowrap" class="ft35">use&#160;of&#160;ivermectin&#160;for&#160;COVID-19&#160;treatment.&#160;However,&#160;this&#160;paper<br/>was&#160;soon&#160;removed&#160;from&#160;the&#160;pre-print&#160;server&#160;SSRN&#160;after&#160;investiga-<br/>tions&#160;identi</p>
+<p style="position:absolute;top:886px;left:132px;white-space:nowrap" class="ft30">ﬁed&#160;major&#160;inconsistencies&#160;in&#160;Surgisphere&#160;<a href="#page5-div">data.</a></p>
+<p style="position:absolute;top:886px;left:420px;white-space:nowrap" class="ft31"><a href="#page5-div">32</a></p>
+<p style="position:absolute;top:889px;left:437px;white-space:nowrap" class="ft30">In</p>
+<p style="position:absolute;top:906px;left:63px;white-space:nowrap" class="ft35">January&#160;2021,&#160;a&#160;non-randomized&#160;study&#160;of&#160;280&#160;participants&#160;sug-<br/>gested&#160;that&#160;ivermectin&#160;reduced&#160;the&#160;risk&#160;of&#160;mortality&#160;by&#160;40%&#160;(P</p>
+<p style="position:absolute;top:919px;left:439px;white-space:nowrap" class="ft30">=</p>
+<p style="position:absolute;top:939px;left:63px;white-space:nowrap" class="ft30"><a href="#page4-div">0.03).</a></p>
+<p style="position:absolute;top:936px;left:97px;white-space:nowrap" class="ft31"><a href="#page4-div">8</a></p>
+<p style="position:absolute;top:939px;left:106px;white-space:nowrap" class="ft30">A&#160;number&#160;of&#160;initial&#160;meta-analyses&#160;of&#160;small&#160;RCTs&#160;also&#160;sug-</p>
+<p style="position:absolute;top:955px;left:63px;white-space:nowrap" class="ft30">gested&#160;bene</p>
+<p style="position:absolute;top:952px;left:137px;white-space:nowrap" class="ft30">ﬁts&#160;for&#160;ivermectin&#160;in&#160;the&#160;treatment&#160;of&#160;CO<a href="#page5-div">VID-19.</a></p>
+<p style="position:absolute;top:952px;left:424px;white-space:nowrap" class="ft31"><a href="#page5-div">33</a></p>
+<p style="position:absolute;top:952px;left:436px;white-space:nowrap" class="ft33"><a href="#page5-div">,</a></p>
+<p style="position:absolute;top:952px;left:438px;white-space:nowrap" class="ft31"><a href="#page5-div">34</a></p>
+<p style="position:absolute;top:972px;left:63px;white-space:nowrap" class="ft30">However,&#160;in&#160;July&#160;2021,&#160;a&#160;RCT&#160;conducted&#160;by&#160;Elgazzar&#160;et&#160;<a href="#page5-div">al.</a></p>
+<p style="position:absolute;top:969px;left:422px;white-space:nowrap" class="ft31"><a href="#page5-div">35</a></p>
+<p style="position:absolute;top:972px;left:439px;white-space:nowrap" class="ft30">in</p>
+<p style="position:absolute;top:988px;left:63px;white-space:nowrap" class="ft30">Egypt,&#160;which&#160;suggested&#160;treatment&#160;bene</p>
+<p style="position:absolute;top:985px;left:309px;white-space:nowrap" class="ft30">ﬁts&#160;for&#160;ivermectin,&#160;was</p>
+<p style="position:absolute;top:1005px;left:63px;white-space:nowrap" class="ft35">retracted&#160;following&#160;reports&#160;of&#160;potential&#160;fraud.&#160;Similarly,&#160;on&#160;further<br/>investigation,&#160;other&#160;RCTs&#160;suggesting&#160;bene</p>
+<p style="position:absolute;top:1018px;left:312px;white-space:nowrap" class="ft30">ﬁts&#160;for&#160;ivermectin&#160;were</p>
+<p style="position:absolute;top:1038px;left:63px;white-space:nowrap" class="ft30">identi</p>
+<p style="position:absolute;top:1035px;left:97px;white-space:nowrap" class="ft30">ﬁed&#160;to&#160;be&#160;either&#160;potentially&#160;fraudulent&#160;or&#160;having&#160;a&#160;high&#160;risk</p>
+<p style="position:absolute;top:1054px;left:63px;white-space:nowrap" class="ft35">of&#160;bias.&#160;This&#160;indicated&#160;that&#160;multiple&#160;RCTs&#160;evaluating&#160;ivermectin<br/>were&#160;not&#160;reliable.&#160;In&#160;February&#160;2022,&#160;in&#160;a&#160;meta-analysis&#160;of&#160;11<br/>RCTs&#160;in&#160;2228&#160;participants,&#160;excluding&#160;studies&#160;at&#160;a&#160;high&#160;risk&#160;of</p>
+<p style="position:absolute;top:130px;left:467px;white-space:nowrap" class="ft30">bias,&#160;ivermectin&#160;had&#160;no&#160;effect&#160;on&#160;<a href="#page5-div">mortality.</a></p>
+<p style="position:absolute;top:127px;left:723px;white-space:nowrap" class="ft31"><a href="#page5-div">36</a></p>
+<p style="position:absolute;top:130px;left:738px;white-space:nowrap" class="ft30">Similarly,&#160;according</p>
+<p style="position:absolute;top:146px;left:467px;white-space:nowrap" class="ft35">to&#160;a&#160;meta-analysis&#160;on&#160;COVID-NMA&#160;of&#160;10&#160;RCTs&#160;in&#160;1369&#160;partici-<br/>pants,&#160;ivermectin&#160;has&#160;no&#160;signi</p>
+<p style="position:absolute;top:160px;left:647px;white-space:nowrap" class="ft30">ﬁcant&#160;survival&#160;beneﬁts.</p>
+<p style="position:absolute;top:200px;left:467px;white-space:nowrap" class="ft32">Aspirin</p>
+<p style="position:absolute;top:223px;left:467px;white-space:nowrap" class="ft35">A&#160;non-randomized&#160;cohort&#160;study&#160;in&#160;112&#160;269&#160;participants&#160;pub-<br/>lished&#160;in&#160;2022&#160;suggested&#160;that&#160;aspirin&#160;reduced&#160;the&#160;risk&#160;of&#160;mortality<br/>by&#160;23%&#160;in&#160;COVID-19&#160;patients&#160;(P</p>
+<p style="position:absolute;top:254px;left:656px;white-space:nowrap" class="ft30">&lt;<a href="#page5-div">0.00001).</a></p>
+<p style="position:absolute;top:254px;left:724px;white-space:nowrap" class="ft31"><a href="#page5-div">10</a></p>
+<p style="position:absolute;top:257px;left:739px;white-space:nowrap" class="ft30">In&#160;contrast,&#160;in&#160;June</p>
+<p style="position:absolute;top:273px;left:467px;white-space:nowrap" class="ft35">2021,&#160;the&#160;RECOVERY&#160;randomized&#160;trial&#160;conducted&#160;in&#160;14&#160;892&#160;parti-<br/>cipants&#160;reported&#160;that&#160;aspirin&#160;had&#160;no&#160;signi</p>
+<p style="position:absolute;top:287px;left:746px;white-space:nowrap" class="ft30">ﬁcant&#160;effects&#160;on</p>
+<p style="position:absolute;top:306px;left:467px;white-space:nowrap" class="ft30">survival.</p>
+<p style="position:absolute;top:303px;left:516px;white-space:nowrap" class="ft31"><a href="#page5-div">11</a></p>
+<p style="position:absolute;top:343px;left:467px;white-space:nowrap" class="ft32">Molnupiravir</p>
+<p style="position:absolute;top:366px;left:467px;white-space:nowrap" class="ft35">Molnupiravir&#160;was&#160;evaluated&#160;in&#160;the&#160;treatment&#160;of&#160;both&#160;hospitalized<br/>patients&#160;and&#160;outpatients.&#160;In&#160;December&#160;2021,&#160;the&#160;MOVe-IN&#160;ran-<br/>domized&#160;trial,&#160;conducted&#160;in&#160;293&#160;hospitalized&#160;patients&#160;globally,<br/>suggested&#160;that&#160;molnupiravir&#160;had&#160;no&#160;signi</p>
+<p style="position:absolute;top:413px;left:713px;white-space:nowrap" class="ft30">ﬁcant&#160;effect&#160;on&#160;mortal-</p>
+<p style="position:absolute;top:432px;left:467px;white-space:nowrap" class="ft30">ity.</p>
+<p style="position:absolute;top:430px;left:485px;white-space:nowrap" class="ft31"><a href="#page4-div">6</a></p>
+<p style="position:absolute;top:432px;left:496px;white-space:nowrap" class="ft30">Trends&#160;for&#160;higher&#160;death&#160;rates&#160;for&#160;molnupiravir-treated&#160;pa-</p>
+<p style="position:absolute;top:449px;left:467px;white-space:nowrap" class="ft35">tients&#160;led&#160;the&#160;Data&#160;Safety&#160;Monitoring&#160;Board&#160;to&#160;terminate&#160;the<br/>MOVe-IN&#160;trial&#160;early.&#160;However,&#160;in&#160;August&#160;2022,&#160;a&#160;non-randomized<br/>study&#160;of&#160;3712&#160;hospitalized&#160;participants&#160;from&#160;Hong&#160;Kong&#160;sug-<br/>gested&#160;that&#160;molnupiravir&#160;reduced&#160;the&#160;risk&#160;of&#160;mortality&#160;by&#160;49%<br/>(P</p>
+<p style="position:absolute;top:512px;left:480px;white-space:nowrap" class="ft30">&lt;<a href="#page4-div">0.00001).</a></p>
+<p style="position:absolute;top:512px;left:548px;white-space:nowrap" class="ft31"><a href="#page4-div">5</a></p>
+<p style="position:absolute;top:531px;left:485px;white-space:nowrap" class="ft30">According&#160;to&#160;interim&#160;results&#160;published&#160;in&#160;December&#160;2021&#160;from</p>
+<p style="position:absolute;top:548px;left:467px;white-space:nowrap" class="ft35">the&#160;MOVe-OUT&#160;study&#160;in&#160;1433&#160;outpatients,&#160;molnupiravir&#160;reduced<br/>the&#160;risk&#160;of&#160;hospital&#160;admission&#160;or&#160;death&#160;by&#160;52%.&#160;However,&#160;it<br/>raised&#160;the&#160;risk&#160;by&#160;35%&#160;among&#160;patients&#160;who&#160;were&#160;evaluated&#160;sub-<br/>sequently&#160;in&#160;the</p>
+<p style="position:absolute;top:595px;left:568px;white-space:nowrap" class="ft30">ﬁnal&#160;<a href="#page5-div">phase.</a></p>
+<p style="position:absolute;top:595px;left:637px;white-space:nowrap" class="ft31"><a href="#page5-div">37</a></p>
+<p style="position:absolute;top:598px;left:653px;white-space:nowrap" class="ft30">The&#160;reason&#160;for&#160;these&#160;inconsistent</p>
+<p style="position:absolute;top:614px;left:467px;white-space:nowrap" class="ft30">results&#160;remain&#160;<a href="#page5-div">unclear.</a></p>
+<p style="position:absolute;top:611px;left:614px;white-space:nowrap" class="ft31"><a href="#page5-div">38</a></p>
+<p style="position:absolute;top:614px;left:634px;white-space:nowrap" class="ft30">In&#160;October&#160;2022,&#160;the&#160;randomized</p>
+<p style="position:absolute;top:631px;left:467px;white-space:nowrap" class="ft35">PANORAMIC&#160;trial&#160;results&#160;were&#160;released&#160;as&#160;a&#160;pre-print.&#160;This<br/>randomized&#160;trial&#160;of&#160;25&#160;500&#160;outpatients&#160;suggested&#160;that&#160;the&#160;risk<br/>of&#160;hospitalizations&#160;or&#160;death&#160;was&#160;0.8%&#160;in&#160;both&#160;the&#160;molnupiravir<br/>and&#160;standard-of-care&#160;arms,&#160;showing&#160;no&#160;signi</p>
+<p style="position:absolute;top:677px;left:750px;white-space:nowrap" class="ft30">ﬁcant&#160;beneﬁ<a href="#page5-div">ts.</a></p>
+<p style="position:absolute;top:677px;left:842px;white-space:nowrap" class="ft31"><a href="#page5-div">16</a></p>
+<p style="position:absolute;top:697px;left:467px;white-space:nowrap" class="ft35">However,&#160;in&#160;September&#160;2022,&#160;a&#160;non-randomized&#160;study&#160;from<br/>Israel&#160;suggested&#160;that&#160;molnupiravir&#160;reduced&#160;the&#160;risk&#160;for&#160;hospitali-<br/>zations&#160;by&#160;44%&#160;in&#160;a&#160;subgroup&#160;of&#160;16&#160;131&#160;outpatients&#160;over&#160;the<br/>age&#160;of&#160;65&#160;years&#160;(P</p>
+<p style="position:absolute;top:743px;left:576px;white-space:nowrap" class="ft30">=<a href="#page5-div">0.02).</a></p>
+<p style="position:absolute;top:743px;left:621px;white-space:nowrap" class="ft31"><a href="#page5-div">14</a></p>
+<p style="position:absolute;top:783px;left:467px;white-space:nowrap" class="ft32">Tenofovir/emtricitabine</p>
+<p style="position:absolute;top:806px;left:467px;white-space:nowrap" class="ft35">Tenofovir/emtricitabine&#160;was&#160;evaluated&#160;for&#160;the&#160;treatment&#160;and<br/>prevention&#160;of&#160;COVID-19.&#160;A&#160;non-randomized&#160;comparative&#160;analysis<br/>of&#160;13&#160;640&#160;men&#160;with&#160;HIV&#160;suggested&#160;that&#160;tenofovir&#160;disoproxil<br/>fumarate/emtricitabine&#160;reduced&#160;the&#160;risk&#160;of&#160;COVID-19&#160;infection<br/>by&#160;39%&#160;in&#160;comparison&#160;with&#160;tenofovir&#160;alafenamide/emtricitabine<br/>(P</p>
+<p style="position:absolute;top:886px;left:480px;white-space:nowrap" class="ft30">=<a href="#page5-div">0.01).</a></p>
+<p style="position:absolute;top:886px;left:525px;white-space:nowrap" class="ft31"><a href="#page5-div">17</a></p>
+<p style="position:absolute;top:889px;left:541px;white-space:nowrap" class="ft30">The&#160;randomized&#160;EPICOS&#160;trial&#160;was&#160;conducted&#160;across</p>
+<p style="position:absolute;top:906px;left:467px;white-space:nowrap" class="ft35">Spain,&#160;Bolivia&#160;and&#160;Venezuela&#160;to&#160;assess&#160;the&#160;effects&#160;of&#160;tenofovir&#160;dis-<br/>oproxil&#160;fumarate/emtricitabine&#160;versus&#160;placebo&#160;as&#160;pre-exposure<br/>prophylaxis&#160;in&#160;456&#160;healthcare&#160;workers.</p>
+<p style="position:absolute;top:936px;left:711px;white-space:nowrap" class="ft31"><a href="#page5-div">18</a></p>
+<p style="position:absolute;top:939px;left:729px;white-space:nowrap" class="ft30">According&#160;to&#160;results</p>
+<p style="position:absolute;top:955px;left:467px;white-space:nowrap" class="ft35">from&#160;this&#160;study,&#160;tenofovir&#160;disoproxil&#160;fumarate/emtricitabine&#160;had<br/>no&#160;signi</p>
+<p style="position:absolute;top:969px;left:514px;white-space:nowrap" class="ft30">ﬁcant&#160;effects&#160;on&#160;preventing&#160;COVID-19&#160;infection.</p>
+<p style="position:absolute;top:988px;left:485px;white-space:nowrap" class="ft30">A&#160;non-randomized&#160;cohort&#160;study&#160;of&#160;77&#160;590&#160;HIV-positive&#160;per-</p>
+<p style="position:absolute;top:1005px;left:467px;white-space:nowrap" class="ft35">sons&#160;receiving&#160;ART&#160;suggested&#160;that&#160;tenofovir&#160;disoproxil&#160;fumar-<br/>ate/emtricitabine&#160;reduced&#160;the&#160;risk&#160;of&#160;mortality&#160;by&#160;87%&#160;in<br/>comparison&#160;with&#160;other&#160;ART<a href="#page5-div">.</a></p>
+<p style="position:absolute;top:1035px;left:634px;white-space:nowrap" class="ft31"><a href="#page5-div">12</a></p>
+<p style="position:absolute;top:1038px;left:650px;white-space:nowrap" class="ft30">However,&#160;this&#160;result&#160;was&#160;not&#160;stat-</p>
+<p style="position:absolute;top:1054px;left:467px;white-space:nowrap" class="ft30">istically&#160;signi</p>
+<p style="position:absolute;top:1051px;left:544px;white-space:nowrap" class="ft30">ﬁcant.&#160;Results&#160;from&#160;an&#160;RCT&#160;conducted&#160;in&#160;Spain&#160;in</p>
+<p style="position:absolute;top:1071px;left:467px;white-space:nowrap" class="ft35">355&#160;participants&#160;suggested&#160;that&#160;tenofovir&#160;disoproxil&#160;fumarate/<br/>emtricitabine&#160;had&#160;no&#160;signi</p>
+<p style="position:absolute;top:1084px;left:625px;white-space:nowrap" class="ft30">ﬁcant&#160;effect&#160;on&#160;28&#160;day&#160;<a href="#page5-div">mortality.</a></p>
+<p style="position:absolute;top:1084px;left:824px;white-space:nowrap" class="ft31"><a href="#page5-div">13</a></p>
+<p style="position:absolute;top:70px;left:63px;white-space:nowrap" class="ft32">Viewpoint</p>
+<p style="position:absolute;top:1137px;left:819px;white-space:nowrap" class="ft30">3&#160;of&#160;5</p>
+<p style="position:absolute;top:245px;left:885px;white-space:nowrap" class="ft34">Downloaded from https://academic.oup.com/jac/advance-article/doi/10.1093/jac/dkac437/6961797 by guest on 09 January 2023</p>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title></title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ <br/>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft40{font-size:15px;font-family:Times;color:#000000;}
+	.ft41{font-size:11px;font-family:Times;color:#000000;}
+	.ft42{font-size:6px;font-family:Times;color:#0000ff;}
+	.ft43{font-size:6px;font-family:Times;color:#000000;}
+	.ft44{font-size:9px;font-family:Times;color:#000000;}
+	.ft45{font-size:13px;font-family:Times;color:#000000;}
+	.ft46{font-size:10px;font-family:Times;color:#666666;-moz-transform: matrix(         0,          1,         -1,          0, 0, 0);-webkit-transform: matrix(         0,          1,         -1,          0, 0, 0);-o-transform: matrix(         0,          1,         -1,          0, 0, 0);-ms-transform: matrix(         0,          1,         -1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+	.ft47{font-size:11px;line-height:16px;font-family:Times;color:#000000;}
+	.ft48{font-size:11px;line-height:13px;font-family:Times;color:#000000;}
+	.ft49{font-size:9px;line-height:14px;font-family:Times;color:#000000;}
+	.ft410{font-size:9px;line-height:15px;font-family:Times;color:#000000;}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<div id="page4-div" style="position:relative;width:918px;height:1186px;">
+<img width="918" height="1186" src="target004.png" alt="background image"/>
+<p style="position:absolute;top:129px;left:63px;white-space:nowrap" class="ft40">Discussion</p>
+<p style="position:absolute;top:158px;left:63px;white-space:nowrap" class="ft47">Across&#160;a&#160;range&#160;of&#160;six&#160;treatments&#160;evaluated&#160;for&#160;COVID-19,&#160;there&#160;is<br/>statistically&#160;signi</p>
+<p style="position:absolute;top:172px;left:162px;white-space:nowrap" class="ft41">ﬁcant&#160;evidence&#160;of&#160;beneﬁt&#160;from&#160;non-randomized</p>
+<p style="position:absolute;top:191px;left:63px;white-space:nowrap" class="ft48">studies&#160;that&#160;is&#160;then&#160;not&#160;seen&#160;in&#160;RCTs.&#160;This&#160;questions&#160;the&#160;validity&#160;of<br/>using&#160;these&#160;observational&#160;studies&#160;in&#160;isolation&#160;to&#160;evaluate&#160;the&#160;ef-<br/>ﬁcacy&#160;of&#160;drugs&#160;and&#160;make&#160;regulatory&#160;decisions.</p>
+<p style="position:absolute;top:240px;left:81px;white-space:nowrap" class="ft41">Throughout&#160;the&#160;COVID-19&#160;pandemic,&#160;there&#160;have&#160;been&#160;high-</p>
+<p style="position:absolute;top:257px;left:63px;white-space:nowrap" class="ft41">pro</p>
+<p style="position:absolute;top:254px;left:83px;white-space:nowrap" class="ft41">ﬁle&#160;media&#160;articles&#160;and&#160;social&#160;media&#160;posts&#160;discussing&#160;the&#160;ap-</p>
+<p style="position:absolute;top:273px;left:63px;white-space:nowrap" class="ft41">parent&#160;bene</p>
+<p style="position:absolute;top:271px;left:139px;white-space:nowrap" class="ft41">ﬁts&#160;of&#160;drugs&#160;based&#160;on&#160;observational&#160;studies.&#160;This</p>
+<p style="position:absolute;top:290px;left:63px;white-space:nowrap" class="ft47">has&#160;led&#160;to&#160;a&#160;high&#160;level&#160;of&#160;health&#160;misinformation&#160;during&#160;the&#160;pan-<br/>demic.&#160;For&#160;example,&#160;hydroxychloroquine&#160;was&#160;suggested&#160;to<br/>have&#160;treatment&#160;bene</p>
+<p style="position:absolute;top:321px;left:192px;white-space:nowrap" class="ft41">ﬁts&#160;in&#160;a&#160;non-randomized&#160;study&#160;of&#160;36&#160;parti-</p>
+<p style="position:absolute;top:340px;left:63px;white-space:nowrap" class="ft47">cipants.&#160;Despite&#160;substantial&#160;limitations&#160;of&#160;this&#160;study,&#160;the&#160;results<br/>were&#160;sensationalized&#160;in&#160;media&#160;reports,&#160;drawing&#160;high&#160;levels&#160;of&#160;at-<br/>tention&#160;from&#160;the&#160;public.&#160;Similarly,&#160;ivermectin&#160;was&#160;suggested&#160;to<br/>have&#160;bene</p>
+<p style="position:absolute;top:387px;left:129px;white-space:nowrap" class="ft41">ﬁts&#160;in&#160;a&#160;non-randomized&#160;study.&#160;Over-emphasis&#160;by</p>
+<p style="position:absolute;top:407px;left:63px;white-space:nowrap" class="ft47">mainstream&#160;media&#160;sources&#160;on&#160;results&#160;from&#160;unreliable&#160;observa-<br/>tional&#160;studies&#160;led&#160;to&#160;a&#160;frenzy&#160;where&#160;the&#160;public&#160;were&#160;sourcing<br/>these&#160;medications&#160;that&#160;had&#160;not&#160;been&#160;approved&#160;for&#160;COVID-19<br/>and&#160;utilizing&#160;them&#160;without&#160;medical&#160;guidance.&#160;There&#160;were&#160;reports<br/>of&#160;individuals&#160;even&#160;purchasing&#160;veterinary&#160;courses&#160;of&#160;ivermectin<br/>for&#160;personal&#160;use,&#160;which&#160;resulted&#160;in&#160;adverse&#160;effects.&#160;Individuals<br/>also&#160;used&#160;these&#160;media&#160;reports&#160;that&#160;exaggerated&#160;bene</p>
+<p style="position:absolute;top:504px;left:380px;white-space:nowrap" class="ft41">ﬁts&#160;of&#160;drugs</p>
+<p style="position:absolute;top:523px;left:63px;white-space:nowrap" class="ft41">to&#160;justify&#160;not&#160;taking&#160;a&#160;COVID-19&#160;vaccine.</p>
+<p style="position:absolute;top:540px;left:81px;white-space:nowrap" class="ft41">The&#160;strengths&#160;of&#160;our&#160;analysis&#160;are&#160;that&#160;the&#160;meta-analyses&#160;of</p>
+<p style="position:absolute;top:556px;left:63px;white-space:nowrap" class="ft47">RCTs&#160;we&#160;included&#160;were&#160;from&#160;COVID-NMA,&#160;a&#160;recognized&#160;evidence-<br/>based&#160;website&#160;with&#160;a&#160;standardized&#160;network&#160;meta-analysis&#160;that<br/>screened&#160;the&#160;trials&#160;and&#160;assessed&#160;risks&#160;of&#160;bias.&#160;Studies&#160;with&#160;a<br/>high&#160;risk&#160;of&#160;bias&#160;were&#160;excluded&#160;from&#160;the&#160;meta-analysis.</p>
+<p style="position:absolute;top:623px;left:81px;white-space:nowrap" class="ft41">One&#160;limitation&#160;of&#160;this&#160;analysis&#160;is&#160;potential&#160;publication&#160;bias.&#160;This</p>
+<p style="position:absolute;top:639px;left:63px;white-space:nowrap" class="ft47">is&#160;easier&#160;to&#160;monitor&#160;for&#160;RCTs,&#160;which&#160;are&#160;typically&#160;posted&#160;on&#160;clinical<br/>trial&#160;registries&#160;when&#160;initiated.&#160;For&#160;example,&#160;there&#160;are&#160;12&#160;RCTs&#160;of<br/>molnupiravir&#160;in&#160;13&#160;694&#160;participants&#160;that&#160;were&#160;registered&#160;and&#160;con-<br/>ducted&#160;in&#160;India&#160;starting&#160;in&#160;May&#160;2021&#160;but&#160;have&#160;not&#160;reported&#160;any<br/>r<a href="#page5-div">esults.</a></p>
+<p style="position:absolute;top:703px;left:106px;white-space:nowrap" class="ft42"><a href="#page5-div">39</a></p>
+<p style="position:absolute;top:706px;left:122px;white-space:nowrap" class="ft41">However,&#160;publication&#160;bias&#160;is&#160;harder&#160;to&#160;evaluate&#160;for&#160;ob-</p>
+<p style="position:absolute;top:722px;left:63px;white-space:nowrap" class="ft47">servational&#160;studies,&#160;if&#160;the&#160;analysis&#160;plans&#160;and&#160;endpoints&#160;for&#160;evalu-<br/>ation&#160;have&#160;not&#160;been&#160;declared&#160;in&#160;advance.&#160;In&#160;a&#160;meta-analysis,<br/>publication&#160;bias&#160;can&#160;be&#160;assessed&#160;using&#160;selection&#160;models&#160;and&#160;fun-<br/>nel&#160;plots.&#160;Additionally,&#160;it&#160;is&#160;challenging&#160;to&#160;assess&#160;studies&#160;for&#160;po-<br/>tential&#160;fraud.&#160;We&#160;have&#160;seen&#160;examples&#160;of&#160;fraudulent&#160;studies&#160;for<br/>both&#160;observational&#160;studies&#160;and&#160;RCTs.</p>
+<p style="position:absolute;top:803px;left:285px;white-space:nowrap" class="ft42"><a href="#page5-div">32</a></p>
+<p style="position:absolute;top:803px;left:296px;white-space:nowrap" class="ft43">,</p>
+<p style="position:absolute;top:803px;left:299px;white-space:nowrap" class="ft42"><a href="#page5-div">35</a></p>
+<p style="position:absolute;top:822px;left:81px;white-space:nowrap" class="ft41">The&#160;results&#160;of&#160;this&#160;study&#160;question&#160;how&#160;non-randomized&#160;obser-</p>
+<p style="position:absolute;top:839px;left:63px;white-space:nowrap" class="ft47">vational&#160;studies&#160;are&#160;being&#160;presented.&#160;There&#160;is&#160;an&#160;emerging&#160;trend<br/>to&#160;call&#160;them</p>
+<p style="position:absolute;top:853px;left:142px;white-space:nowrap" class="ft41">‘real&#160;life’&#160;studies,&#160;which&#160;suggests&#160;a&#160;level&#160;of&#160;validity</p>
+<p style="position:absolute;top:872px;left:63px;white-space:nowrap" class="ft47">not&#160;recognized&#160;by&#160;regulatory&#160;authorities.&#160;Sample&#160;sizes&#160;can&#160;be<br/>large,&#160;which&#160;could&#160;make&#160;their&#160;results&#160;appear&#160;stronger.&#160;However,<br/>regulatory&#160;authorities&#160;do&#160;not&#160;use&#160;observational&#160;studies&#160;as&#160;the<br/>main&#160;basis&#160;for&#160;approval&#160;of&#160;a&#160;drug.&#160;A&#160;systematic&#160;review<br/>meta-analysis&#160;of&#160;RCTs&#160;remains&#160;the&#160;standard&#160;evidence&#160;base&#160;for<br/>drug&#160;approval.</p>
+<p style="position:absolute;top:972px;left:81px;white-space:nowrap" class="ft41">In&#160;other&#160;disease&#160;areas,&#160;observational&#160;studies&#160;also&#160;show&#160;differ-</p>
+<p style="position:absolute;top:988px;left:63px;white-space:nowrap" class="ft47">ent&#160;effects&#160;from&#160;RCTs.&#160;This&#160;was&#160;observed&#160;for&#160;the&#160;association&#160;be-<br/>tween&#160;vitamin&#160;A&#160;and&#160;cardiovascular&#160;mortality.&#160;A&#160;meta-analysis<br/>of&#160;results&#160;from&#160;observational&#160;studies&#160;indicated&#160;a&#160;bene</p>
+<p style="position:absolute;top:1018px;left:387px;white-space:nowrap" class="ft41">ﬁt&#160;for&#160;vita-</p>
+<p style="position:absolute;top:1038px;left:63px;white-space:nowrap" class="ft47">min&#160;A&#160;whereas&#160;a&#160;meta-analysis&#160;of&#160;RCTs&#160;suggested&#160;an&#160;increase&#160;in<br/>the&#160;risk&#160;of&#160;<a href="#page5-div">mortality.</a></p>
+<p style="position:absolute;top:1051px;left:194px;white-space:nowrap" class="ft42"><a href="#page5-div">40</a></p>
+<p style="position:absolute;top:1054px;left:213px;white-space:nowrap" class="ft41">However,&#160;a&#160;comparison&#160;analysis&#160;sug-</p>
+<p style="position:absolute;top:1071px;left:63px;white-space:nowrap" class="ft47">gested&#160;that&#160;well-designed&#160;observational&#160;studies&#160;do&#160;not&#160;over-<br/>estimate&#160;treatment&#160;effects&#160;in&#160;comparison&#160;with&#160;RCTs.</p>
+<p style="position:absolute;top:1084px;left:392px;white-space:nowrap" class="ft42"><a href="#page5-div">41</a></p>
+<p style="position:absolute;top:1087px;left:409px;white-space:nowrap" class="ft41">Hence,</p>
+<p style="position:absolute;top:130px;left:467px;white-space:nowrap" class="ft47">there&#160;are&#160;contrasting&#160;suggestions&#160;regarding&#160;the&#160;reliability&#160;of&#160;ob-<br/>servational&#160;studies&#160;and&#160;their&#160;results&#160;should&#160;be&#160;validated&#160;in&#160;RCTs.</p>
+<p style="position:absolute;top:163px;left:485px;white-space:nowrap" class="ft41">There&#160;is&#160;a&#160;suggestion&#160;to&#160;use&#160;data&#160;from&#160;external&#160;controls&#160;in</p>
+<p style="position:absolute;top:179px;left:467px;white-space:nowrap" class="ft41">making</p>
+<p style="position:absolute;top:179px;left:527px;white-space:nowrap" class="ft41">regulatory</p>
+<p style="position:absolute;top:179px;left:605px;white-space:nowrap" class="ft41">decisions</p>
+<p style="position:absolute;top:179px;left:675px;white-space:nowrap" class="ft41">regarding</p>
+<p style="position:absolute;top:179px;left:748px;white-space:nowrap" class="ft41">rare</p>
+<p style="position:absolute;top:179px;left:788px;white-space:nowrap" class="ft41"><a href="#page5-div">diseases.</a></p>
+<p style="position:absolute;top:177px;left:842px;white-space:nowrap" class="ft42"><a href="#page5-div">42</a></p>
+<p style="position:absolute;top:196px;left:467px;white-space:nowrap" class="ft47">However,&#160;as&#160;seen&#160;with&#160;observational&#160;studies&#160;using&#160;external&#160;con-<br/>trols&#160;in&#160;COVID-19,&#160;this&#160;could&#160;be&#160;highly&#160;misleading.&#160;If&#160;non-<br/>randomized&#160;studies&#160;were&#160;the&#160;sole&#160;source&#160;of&#160;evidence&#160;for&#160;approval<br/>of&#160;COVID-19&#160;treatments,&#160;several&#160;ineffective&#160;drugs&#160;may&#160;have<br/>been&#160;approved.</p>
+<p style="position:absolute;top:278px;left:485px;white-space:nowrap" class="ft41">Another&#160;limitation&#160;observed&#160;in&#160;several&#160;observational&#160;studies&#160;of</p>
+<p style="position:absolute;top:295px;left:467px;white-space:nowrap" class="ft47">COVID-19&#160;treatments&#160;is&#160;the&#160;use&#160;of&#160;propensity-score&#160;matching.<br/>This&#160;can&#160;seriously&#160;affect&#160;the&#160;conclusion&#160;of&#160;the&#160;study&#160;as&#160;precision<br/>and&#160;generalizability&#160;are&#160;compromised.</p>
+<p style="position:absolute;top:344px;left:485px;white-space:nowrap" class="ft41">We&#160;propose&#160;that&#160;in&#160;future,&#160;all&#160;observational&#160;studies&#160;should&#160;be</p>
+<p style="position:absolute;top:361px;left:467px;white-space:nowrap" class="ft41">labelled&#160;as</p>
+<p style="position:absolute;top:358px;left:535px;white-space:nowrap" class="ft41">‘non-randomized’&#160;in&#160;the&#160;title.&#160;This&#160;should&#160;automatic-</p>
+<p style="position:absolute;top:377px;left:467px;white-space:nowrap" class="ft47">ally&#160;indicate&#160;that&#160;they&#160;are&#160;not&#160;as&#160;reliable&#160;as&#160;randomized&#160;studies<br/>for&#160;evaluating&#160;the&#160;ef</p>
+<p style="position:absolute;top:391px;left:587px;white-space:nowrap" class="ft41">ﬁcacy&#160;of&#160;a&#160;drug&#160;and&#160;should&#160;not&#160;be&#160;used&#160;inde-</p>
+<p style="position:absolute;top:410px;left:467px;white-space:nowrap" class="ft41">pendently&#160;for&#160;making&#160;regulatory&#160;approval&#160;decisions.</p>
+<p style="position:absolute;top:460px;left:467px;white-space:nowrap" class="ft40">Funding</p>
+<p style="position:absolute;top:482px;left:467px;white-space:nowrap" class="ft44">Supported&#160;by&#160;an&#160;academic&#160;research&#160;grant&#160;from&#160;McMaster&#160;University.</p>
+<p style="position:absolute;top:530px;left:467px;white-space:nowrap" class="ft40">Transparency&#160;declarations</p>
+<p style="position:absolute;top:553px;left:467px;white-space:nowrap" class="ft44">None&#160;to&#160;declare.</p>
+<p style="position:absolute;top:601px;left:467px;white-space:nowrap" class="ft40">References</p>
+<p style="position:absolute;top:626px;left:467px;white-space:nowrap" class="ft49"><a href="#page1-div">1&#160;</a>FDA.&#160;CFR&#160;-&#160;Code&#160;of&#160;Federal&#160;Regulations&#160;Title&#160;21.&#160;<a href="https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=314.126">https://www.<br/>accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr</a></p>
+<p style="position:absolute;top:638px;left:793px;white-space:nowrap" class="ft44"><a href="https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=314.126">=314.126</a></p>
+<p style="position:absolute;top:661px;left:467px;white-space:nowrap" class="ft44"><a href="#page1-div">2&#160;</a>GRADE&#160;working&#160;group.&#160;<a href="https://www.gradeworkinggroup.org/">https://www.gradeworkinggroup.org/.</a></p>
+<p style="position:absolute;top:681px;left:467px;white-space:nowrap" class="ft49"><a href="#page1-div">3&#160;</a>Sterne&#160;JAC,&#160;Hernán&#160;MA,&#160;Reeves&#160;BC&#160;et&#160;al.&#160;ROBINS-I:&#160;a&#160;tool&#160;for&#160;assessing<br/>risk&#160;of&#160;bias&#160;in&#160;non-randomised&#160;studies&#160;of&#160;interventions.&#160;BMJ&#160;2016;&#160;355:<br/>i4919.&#160;<a href="https://doi.org/10.1136/bmj.i4919">https://doi.org/10.1136/bmj.i4919</a></p>
+<p style="position:absolute;top:732px;left:467px;white-space:nowrap" class="ft44"><a href="#page1-div">4&#160;</a>Sterne&#160;JAC,&#160;Savovi</p>
+<p style="position:absolute;top:729px;left:578px;white-space:nowrap" class="ft44">ć&#160;J,&#160;Page&#160;MJ&#160;et&#160;al.&#160;Rob&#160;2:&#160;a&#160;revised&#160;tool&#160;for&#160;assessing</p>
+<p style="position:absolute;top:747px;left:467px;white-space:nowrap" class="ft410">risk&#160;of&#160;bias&#160;in&#160;randomised&#160;trials.&#160;BMJ&#160;2019;&#160;366:&#160;l4898.&#160;<a href="https://doi.org/10.1136/bmj.l4898">https://doi.org/10.<br/>1136/bmj.l4898</a></p>
+<p style="position:absolute;top:782px;left:467px;white-space:nowrap" class="ft410"><a href="#page2-div">5&#160;</a>Wong&#160;CKH,&#160;Au&#160;ICH,&#160;Lau&#160;KTK&#160;et&#160;al.&#160;Real-world&#160;effectiveness&#160;of&#160;early&#160;mol-<br/>nupiravir&#160;or&#160;nirmatrelvir-ritonavir&#160;in&#160;hospitalised&#160;patients&#160;with&#160;COVID-19<br/>without&#160;supplemental&#160;oxygen&#160;requirement&#160;on&#160;admission&#160;during&#160;Hong<br/>Kong</p>
+<p style="position:absolute;top:825px;left:494px;white-space:nowrap" class="ft44">’s&#160;omicron&#160;BA.2&#160;wave:&#160;a&#160;retrospective&#160;cohort&#160;study.&#160;Lancet</p>
+<p style="position:absolute;top:842px;left:467px;white-space:nowrap" class="ft44">Infect&#160;Dis&#160;2022;&#160;22:&#160;P1681</p>
+<p style="position:absolute;top:840px;left:613px;white-space:nowrap" class="ft44">–93.&#160;<a href="https://doi.org/10.1016/S1473-3099(22)00507-2">https://doi.org/10.1016/S1473-3099(22)</a></p>
+<p style="position:absolute;top:857px;left:467px;white-space:nowrap" class="ft44"><a href="https://doi.org/10.1016/S1473-3099(22)00507-2">00507-2</a></p>
+<p style="position:absolute;top:877px;left:467px;white-space:nowrap" class="ft49"><a href="#page2-div">6&#160;</a>Arribas&#160;José&#160;R,&#160;Bhagani&#160;S,&#160;Lobo&#160;Suzana&#160;M&#160;et&#160;al.&#160;Randomized&#160;trial&#160;of&#160;mol-<br/>nupiravir&#160;or&#160;placebo&#160;in&#160;patients&#160;hospitalized&#160;with&#160;COVID-19.&#160;NEJM<br/>Evidence&#160;2022;&#160;1.&#160;<a href="https://doi.org/10.1056/EVIDoa2100044">https://doi.org/10.1056/EVIDoa2100044</a></p>
+<p style="position:absolute;top:928px;left:467px;white-space:nowrap" class="ft410"><a href="#page2-div">7&#160;</a>Gilead.&#160;Gilead&#160;Presents&#160;Additional&#160;Data&#160;on&#160;Investigational&#160;Antiviral<br/>Remdesivir&#160;for&#160;the&#160;Treatment&#160;of&#160;COVID-19.&#160;<a href="https://www.gilead.com/news-and-press/press-room/press-releases/2020/7/gilead-presents-additional-data-on-investigational-antiviral-remdesivir-for-the-treatment-of-covid-19">https://www.gilead.com/<br/>news-and-press/press-room/press-releases/2020/7/gilead-presents-add<br/>itional-data-on-investigational-antiviral-remdesivir-for-the-treatment-of-<br/>covid-19</a>.</p>
+<p style="position:absolute;top:1008px;left:467px;white-space:nowrap" class="ft49"><a href="#page2-div">8&#160;</a>Rajter&#160;JC,&#160;Sherman&#160;MS,&#160;Fatteh&#160;N&#160;et&#160;al.&#160;Use&#160;of&#160;ivermectin&#160;is&#160;associated<br/>with&#160;lower&#160;mortality&#160;in&#160;hospitalized&#160;patients&#160;with&#160;coronavirus&#160;disease<br/>2019:&#160;the&#160;Ivermectin&#160;in&#160;COVID&#160;Nineteen&#160;Study.&#160;Chest&#160;2021;&#160;159:&#160;85</p>
+<p style="position:absolute;top:1036px;left:831px;white-space:nowrap" class="ft44">–92.</p>
+<p style="position:absolute;top:1053px;left:467px;white-space:nowrap" class="ft44"><a href="https://doi.org/10.1016/j.chest.2020.10.009">https://doi.org/10.1016/j.chest.2020.10.009</a></p>
+<p style="position:absolute;top:1073px;left:467px;white-space:nowrap" class="ft410"><a href="#page2-div">9&#160;</a>Arshad&#160;S,&#160;Kilgore&#160;P,&#160;Chaudhry&#160;ZS&#160;et&#160;al.&#160;Treatment&#160;with&#160;hydroxychloro-<br/>quine,&#160;azithromycin,&#160;and&#160;combination&#160;in&#160;patients&#160;hospitalized&#160;with</p>
+<p style="position:absolute;top:70px;left:63px;white-space:nowrap" class="ft45">Viewpoint</p>
+<p style="position:absolute;top:1137px;left:63px;white-space:nowrap" class="ft41">4&#160;of&#160;5</p>
+<p style="position:absolute;top:245px;left:885px;white-space:nowrap" class="ft46">Downloaded from https://academic.oup.com/jac/advance-article/doi/10.1093/jac/dkac437/6961797 by guest on 09 January 2023</p>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title></title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ <br/>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft50{font-size:9px;font-family:Times;color:#000000;}
+	.ft51{font-size:13px;font-family:Times;color:#000000;}
+	.ft52{font-size:11px;font-family:Times;color:#000000;}
+	.ft53{font-size:10px;font-family:Times;color:#666666;-moz-transform: matrix(         0,          1,         -1,          0, 0, 0);-webkit-transform: matrix(         0,          1,         -1,          0, 0, 0);-o-transform: matrix(         0,          1,         -1,          0, 0, 0);-ms-transform: matrix(         0,          1,         -1,          0, 0, 0);-moz-transform-origin: left 75%;-webkit-transform-origin: left 75%;-o-transform-origin: left 75%;-ms-transform-origin: left 75%;}
+	.ft54{font-size:9px;line-height:17px;font-family:Times;color:#000000;}
+	.ft55{font-size:9px;line-height:15px;font-family:Times;color:#000000;}
+	.ft56{font-size:9px;line-height:14px;font-family:Times;color:#000000;}
+	.ft57{font-size:9px;line-height:18px;font-family:Times;color:#000000;}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<div id="page5-div" style="position:relative;width:918px;height:1186px;">
+<img width="918" height="1186" src="target005.png" alt="background image"/>
+<p style="position:absolute;top:130px;left:63px;white-space:nowrap" class="ft50">COVID-19.&#160;Int&#160;J&#160;Infect&#160;Dis&#160;2020;&#160;97:&#160;396</p>
+<p style="position:absolute;top:128px;left:284px;white-space:nowrap" class="ft50">–403.&#160;<a href="https://doi.org/10.1016/j.ijid.2020.06.099">https://doi.org/10.1016/j.</a></p>
+<p style="position:absolute;top:145px;left:63px;white-space:nowrap" class="ft55"><a href="https://doi.org/10.1016/j.ijid.2020.06.099">ijid.2020.06.099<br/></a><a href="#page2-div">10&#160;</a>Chow&#160;JH,&#160;Rahnavard&#160;A,&#160;Gomberg-Maitland&#160;M&#160;et&#160;al.&#160;Association&#160;of<br/>early&#160;aspirin&#160;use&#160;with&#160;in-hospital&#160;mortality&#160;in&#160;patients&#160;with&#160;moderate<br/>COVID-19.&#160;JAMA&#160;Network&#160;Open&#160;2022;&#160;5:&#160;e223890.&#160;<a href="https://doi.org/10.1001/jamanetworkopen.2022.3890">https://doi.org/10.<br/>1001/jamanetworkopen.2022.3890<br/></a><a href="#page2-div">11&#160;</a>Abani&#160;O,&#160;Abbas&#160;A,&#160;Abbas&#160;F&#160;et&#160;al.&#160;Aspirin&#160;in&#160;patients&#160;admitted&#160;to&#160;hos-<br/>pital&#160;with&#160;COVID-19&#160;(RECOVERY):&#160;a&#160;randomised,&#160;controlled,&#160;open-label,<br/>platform&#160;trial.&#160;Lancet&#160;2022;&#160;399:&#160;143</p>
+<p style="position:absolute;top:254px;left:291px;white-space:nowrap" class="ft50">–51.&#160;<a href="https://doi.org/10.1016/S0140-6736(21)01825-0">https://doi.org/10.1016/</a></p>
+<p style="position:absolute;top:271px;left:63px;white-space:nowrap" class="ft55"><a href="https://doi.org/10.1016/S0140-6736(21)01825-0">S0140-6736(21)01825-0<br/></a><a href="#page2-div">12&#160;</a>Del&#160;Amo&#160;J,&#160;Polo&#160;R,&#160;Moreno&#160;S&#160;et&#160;al.&#160;Incidence&#160;and&#160;severity&#160;of&#160;COVID-19<br/>in&#160;HIV-positive&#160;persons&#160;receiving&#160;antiretroviral&#160;therapy:&#160;a&#160;cohort&#160;study.<br/>Ann&#160;Intern&#160;Med&#160;2020;&#160;173:&#160;536</p>
+<p style="position:absolute;top:317px;left:231px;white-space:nowrap" class="ft50">–41.&#160;<a href="https://doi.org/10.7326/M20-3689">https://doi.org/10.7326/M20-3689</a></p>
+<p style="position:absolute;top:337px;left:63px;white-space:nowrap" class="ft55"><a href="#page2-div">13&#160;</a>Montejano&#160;R,&#160;de&#160;la&#160;Calle-Prieto&#160;F,&#160;Velasco&#160;M&#160;et&#160;al.&#160;Tenofovir&#160;disoproxil<br/>fumarate/emtricitabine&#160;and&#160;baricitinib&#160;for&#160;patients&#160;at&#160;high&#160;risk&#160;of&#160;severe<br/>COVID-19:&#160;the&#160;PANCOVID&#160;randomized&#160;clinical&#160;trial.&#160;Clin&#160;Infect&#160;Dis&#160;2022;<br/>ciac628.&#160;<a href="https://doi.org/10.1093/cid/ciac628">https://doi.org/10.1093/cid/ciac628<br/></a><a href="#page2-div">14&#160;</a>Arbel&#160;R,&#160;Sagy&#160;YW,&#160;Battat&#160;E&#160;et&#160;al.&#160;Molnupiravir&#160;Use&#160;and&#160;Severe&#160;Covid-19<br/>Outcomes</p>
+<p style="position:absolute;top:415px;left:134px;white-space:nowrap" class="ft50">During</p>
+<p style="position:absolute;top:415px;left:185px;white-space:nowrap" class="ft50">the</p>
+<p style="position:absolute;top:415px;left:219px;white-space:nowrap" class="ft50">Omicron</p>
+<p style="position:absolute;top:415px;left:280px;white-space:nowrap" class="ft50">Surge.</p>
+<p style="position:absolute;top:415px;left:329px;white-space:nowrap" class="ft50">2022.</p>
+<p style="position:absolute;top:415px;left:376px;white-space:nowrap" class="ft50"><a href="https://assets.researchsquare.com/files/rs-2115769/v1/c662f126-6109-411c-b506-ee3287649274.pdf?c&equals;1664472995">https://assets.</a></p>
+<p style="position:absolute;top:430px;left:63px;white-space:nowrap" class="ft50"><a href="https://assets.researchsquare.com/files/rs-2115769/v1/c662f126-6109-411c-b506-ee3287649274.pdf?c&equals;1664472995">researchsquare.com/</a></p>
+<p style="position:absolute;top:428px;left:176px;white-space:nowrap" class="ft50"><a href="https://assets.researchsquare.com/files/rs-2115769/v1/c662f126-6109-411c-b506-ee3287649274.pdf?c&equals;1664472995">ﬁles/rs-2115769/v1/c662f126-6109-411c-b506-</a></p>
+<p style="position:absolute;top:445px;left:63px;white-space:nowrap" class="ft50"><a href="https://assets.researchsquare.com/files/rs-2115769/v1/c662f126-6109-411c-b506-ee3287649274.pdf?c&equals;1664472995">ee3287649274.pdf?c</a></p>
+<p style="position:absolute;top:443px;left:176px;white-space:nowrap" class="ft50"><a href="https://assets.researchsquare.com/files/rs-2115769/v1/c662f126-6109-411c-b506-ee3287649274.pdf?c&equals;1664472995">=1664472995.</a></p>
+<p style="position:absolute;top:463px;left:63px;white-space:nowrap" class="ft55"><a href="#page2-div">15&#160;</a>Jayk&#160;Bernal&#160;A,&#160;Gomes&#160;da&#160;Silva&#160;MM,&#160;Musungaie&#160;DB&#160;et&#160;al.&#160;Molnupiravir<br/>for&#160;oral&#160;treatment&#160;of&#160;COVID-19&#160;in&#160;nonhospitalized&#160;patients.&#160;N&#160;Engl&#160;J<br/>Med&#160;2021;&#160;386:&#160;509</p>
+<p style="position:absolute;top:491px;left:171px;white-space:nowrap" class="ft50">–20.&#160;<a href="https://doi.org/10.1056/NEJMoa2116044">https://doi.org/10.1056/NEJMoa2116044</a></p>
+<p style="position:absolute;top:511px;left:63px;white-space:nowrap" class="ft56"><a href="#page2-div">16&#160;</a>Butler&#160;C,&#160;Hobbs&#160;R,&#160;Gbinigie&#160;O&#160;et&#160;al.&#160;Molnupiravir&#160;plus&#160;usual&#160;care&#160;versus<br/>usual&#160;care&#160;alone&#160;as&#160;early&#160;treatment&#160;for&#160;adults&#160;with&#160;COVID-19&#160;at&#160;increased<br/>risk&#160;of&#160;adverse&#160;outcomes&#160;(PANORAMIC):&#160;preliminary&#160;analysis&#160;from&#160;the<br/>United&#160;Kingdom&#160;randomised,&#160;controlled&#160;open-label,&#160;platform&#160;adaptive<br/>trial.&#160;SSRN&#160;2022.&#160;<a href="https://ssrn.com/abstract&equals;4237902">https://ssrn.com/abstract</a></p>
+<p style="position:absolute;top:569px;left:288px;white-space:nowrap" class="ft50"><a href="https://ssrn.com/abstract&equals;4237902">=4237902.</a></p>
+<p style="position:absolute;top:589px;left:63px;white-space:nowrap" class="ft56"><a href="#page2-div">17&#160;</a>Li&#160;G,&#160;Park&#160;LS,&#160;Lodi&#160;S&#160;et&#160;al.&#160;Tenofovir&#160;disoproxil&#160;fumarate&#160;and&#160;corona-<br/>virus&#160;disease&#160;2019&#160;outcomes&#160;in&#160;men&#160;with&#160;HIV.&#160;AIDS&#160;2022;&#160;36:&#160;1689</p>
+<p style="position:absolute;top:602px;left:427px;white-space:nowrap" class="ft50">–96.</p>
+<p style="position:absolute;top:619px;left:63px;white-space:nowrap" class="ft56"><a href="https://doi.org/10.1097/QAD.0000000000003314">https://doi.org/10.1097/QAD.0000000000003314<br/></a><a href="#page2-div">18&#160;</a>Polo&#160;R,&#160;García-Albéniz&#160;X,&#160;Terán&#160;C&#160;et&#160;al.&#160;Daily&#160;tenofovir&#160;disoproxil&#160;fumar-<br/>ate/emtricitabine&#160;and&#160;hydroxychloroquine&#160;for&#160;pre-exposure&#160;prophylaxis<br/>of&#160;COVID-19:&#160;a&#160;double-blind&#160;placebo-controlled&#160;randomized&#160;trial&#160;in<br/>healthcare&#160;workers.&#160;Clin&#160;Microbiol&#160;Infect&#160;2022;&#160;ciac628.&#160;<a href="https://doi.org/10.1016/j.cmi.2022.07.006">https://doi.org/<br/>10.1016/j.cmi.2022.07.006<br/></a><a href="#page1-div">19&#160;</a>Evrenoglou&#160;T,&#160;Boutron&#160;I,&#160;Chaimani&#160;A.&#160;An&#160;R-Shiny&#160;application&#160;for&#160;living<br/>meta-analyses&#160;of&#160;COVID-19&#160;trials.&#160;medRxiv&#160;2021;&#160;<a href="http://doi.org/10.1101/2021.09.07.21263207">http://doi.org/10.1101/<br/>2021.09.07.21263207<br/></a><a href="#page1-div">20&#160;</a>COVID-NMA.&#160;The&#160;COVID-NMA&#160;initiative:&#160;a&#160;living&#160;mapping&#160;and&#160;living<br/>systematic&#160;review&#160;of&#160;Covid-19&#160;trials.&#160;<a href="https://covid-nma.com/">https://covid-nma.com/.<br/></a><a href="#page2-div">21&#160;</a>Gautret&#160;P,&#160;Lagier&#160;JC,&#160;Parola&#160;P&#160;et&#160;al.&#160;Hydroxychloroquine&#160;and&#160;azithro-<br/>mycin&#160;as&#160;a&#160;treatment&#160;of&#160;COVID-19:&#160;results&#160;of&#160;an&#160;open-label&#160;non-<br/>randomized&#160;clinical&#160;trial.&#160;Int&#160;J&#160;Antimicrob&#160;Agents&#160;2020;&#160;56:&#160;105949.<br/><a href="https://doi.org/10.1016/j.ijantimicag.2020.105949">https://doi.org/10.1016/j.ijantimicag.2020.105949<br/></a><a href="#page2-div">22&#160;</a>FDA.&#160;Letter&#160;to&#160;Dr&#160;Rick&#160;Bright&#160;re:&#160;Request&#160;for&#160;Emergency&#160;Use<br/>Authorization&#160;for&#160;use&#160;of&#160;chloroquine&#160;phosphate&#160;or&#160;hydroxychloroquine&#160;sul-<br/>fate&#160;supplied&#160;from&#160;the&#160;strategic&#160;national&#160;stockpile&#160;for&#160;treatment&#160;of&#160;2019<br/>coronavirus&#160;disease.&#160;<a href="https://www.fda.gov/media/136534/download">https://www.fda.gov/media/136534/download.<br/></a><a href="#page2-div">23&#160;</a>Davey&#160;M,&#160;Kirchgaessner&#160;D,&#160;Boseley&#160;S.&#160;Surgisphere:&#160;governments&#160;and<br/>WHO&#160;changed&#160;Covid-19&#160;policy&#160;based&#160;on&#160;suspect&#160;data&#160;from&#160;tiny&#160;US&#160;com-<br/>pany.</p>
+<p style="position:absolute;top:952px;left:129px;white-space:nowrap" class="ft50"><a href="https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine">https://www.theguardian.com/world/2020/jun/03/covid-19-</a></p>
+<p style="position:absolute;top:967px;left:63px;white-space:nowrap" class="ft55"><a href="https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine">surgisphere-who-world-health-organization-hydroxychloroquine.<br/></a><a href="#page2-div">24&#160;</a>RECOVERY.&#160;Effect&#160;of&#160;hydroxychloroquine&#160;in&#160;hospitalized&#160;patients&#160;with<br/>COVID-19.&#160;N&#160;Engl&#160;J&#160;Med&#160;2020;&#160;383:&#160;2030</p>
+<p style="position:absolute;top:998px;left:295px;white-space:nowrap" class="ft50">–40.&#160;<a href="https://doi.org/10.1056/NEJMoa2022926">https://doi.org/10.1056/</a></p>
+<p style="position:absolute;top:1015px;left:63px;white-space:nowrap" class="ft55"><a href="https://doi.org/10.1056/NEJMoa2022926">NEJMoa2022926<br/></a><a href="#page2-div">25&#160;</a>FDA.&#160;Memorandum&#160;explaining&#160;basis&#160;for&#160;revocation&#160;of&#160;emergency&#160;use<br/>authorization&#160;for&#160;emergency&#160;use&#160;of&#160;chloroquine&#160;phosphate&#160;and&#160;hydroxy-<br/>chloroquine&#160;sulfate.&#160;<a href="https://www.fda.gov/media/138945/download">https://www.fda.gov/media/138945/download.</a></p>
+<p style="position:absolute;top:130px;left:467px;white-space:nowrap" class="ft55"><a href="#page3-div">26&#160;</a>Beigel&#160;JH,&#160;Tomashek&#160;KM,&#160;Dodd&#160;LE&#160;et&#160;al.&#160;Remdesivir&#160;for&#160;the&#160;treatment<br/>of&#160;COVID-19</p>
+<p style="position:absolute;top:143px;left:536px;white-space:nowrap" class="ft50">—&#160;ﬁnal&#160;report.&#160;N&#160;Engl&#160;J&#160;Med&#160;2020;&#160;383:&#160;1813–26.&#160;<a href="https://doi.org/10.1056/NEJMoa2007764">https://doi.</a></p>
+<p style="position:absolute;top:160px;left:467px;white-space:nowrap" class="ft50"><a href="https://doi.org/10.1056/NEJMoa2007764">org/10.1056/NEJMoa2007764</a></p>
+<p style="position:absolute;top:180px;left:467px;white-space:nowrap" class="ft55"><a href="#page3-div">27&#160;</a>FDA.&#160;Coronavirus&#160;(COVID-19)&#160;Update:&#160;FDA&#160;Issues&#160;Emergency&#160;Use<br/>Authorization&#160;for&#160;Potential&#160;COVID-19&#160;Treatment.&#160;<a href="https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-potential-covid-19-treatment">https://www.fda.gov/<br/>news-events/press-announcements/coronavirus-covid-19-update-fda-issu<br/>es-emergency-use-authorization-potential-covid-19-treatment.</a></p>
+<p style="position:absolute;top:245px;left:467px;white-space:nowrap" class="ft56"><a href="#page3-div">28&#160;</a>Spinner&#160;CD,&#160;Gottlieb&#160;RL,&#160;Criner&#160;GJ&#160;et&#160;al.&#160;Effect&#160;of&#160;remdesivir&#160;vs&#160;standard<br/>care&#160;on&#160;clinical&#160;status&#160;at&#160;11&#160;days&#160;in&#160;patients&#160;with&#160;moderate&#160;COVID-19:&#160;a<br/>randomized&#160;clinical&#160;trial.&#160;JAMA&#160;2020;&#160;324:&#160;1048</p>
+<p style="position:absolute;top:272px;left:731px;white-space:nowrap" class="ft50">–57.&#160;<a href="https://doi.org/10.1001/jama.2020.16349">https://doi.org/10.</a></p>
+<p style="position:absolute;top:290px;left:467px;white-space:nowrap" class="ft50"><a href="https://doi.org/10.1001/jama.2020.16349">1001/jama.2020.16349</a></p>
+<p style="position:absolute;top:310px;left:467px;white-space:nowrap" class="ft50"><a href="#page3-div">29&#160;</a>GILEAD.&#160;Gilead</p>
+<p style="position:absolute;top:307px;left:572px;white-space:nowrap" class="ft50">’s&#160;Investigational&#160;Antiviral&#160;Veklury®&#160;(Remdesivir)</p>
+<p style="position:absolute;top:325px;left:467px;white-space:nowrap" class="ft56">Receives&#160;U.S.&#160;Food&#160;and&#160;Drug&#160;Administration&#160;Emergency&#160;Use&#160;Authorization<br/>for&#160;the&#160;Treatment&#160;of&#160;Patients&#160;With&#160;Moderate&#160;COVID-19.&#160;<a href="https://www.gilead.com/news-and-press/press-room/press-releases/2020/8/gileads-investigational-antiviral-veklury-remdesivir-receives-us-food-and-drug-administration-emergency-use-authorization-for-the-treatment-of-p">https://www.<br/>gilead.com/news-and-press/press-room/press-releases/2020/8/gileads-inv<br/>estigational-antiviral-veklury-remdesivir-receives-us-food-and-drug-admini<br/>stration-emergency-use-authorization-for-the-treatment-of-p.</a></p>
+<p style="position:absolute;top:405px;left:467px;white-space:nowrap" class="ft55"><a href="#page3-div">30&#160;</a>WHO&#160;Solidarity&#160;Trial&#160;Consortium.&#160;Remdesivir&#160;and&#160;three&#160;other&#160;drugs&#160;for<br/>hospitalised&#160;patients&#160;with&#160;COVID-19:</p>
+<p style="position:absolute;top:417px;left:670px;white-space:nowrap" class="ft50">ﬁnal&#160;results&#160;of&#160;the&#160;WHO&#160;solidarity</p>
+<p style="position:absolute;top:435px;left:467px;white-space:nowrap" class="ft56">randomised&#160;trial&#160;and&#160;updated&#160;meta-analyses.&#160;Lancet&#160;2022;&#160;399:<br/>1941</p>
+<p style="position:absolute;top:447px;left:495px;white-space:nowrap" class="ft50">–53.&#160;<a href="https://doi.org/10.1016/S0140-6736(22)00519-0">https://doi.org/10.1016/S0140-6736(22)00519-0</a></p>
+<p style="position:absolute;top:469px;left:467px;white-space:nowrap" class="ft56"><a href="#page3-div">31&#160;</a>FDA.&#160;FDA&#160;Approves&#160;First&#160;Treatment&#160;for&#160;COVID-19.&#160;<a href="https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19">https://www.fda.<br/>gov/news-events/press-announcements/fda-approves-</a></p>
+<p style="position:absolute;top:482px;left:763px;white-space:nowrap" class="ft50"><a href="https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19">ﬁrst-treatment-</a></p>
+<p style="position:absolute;top:499px;left:467px;white-space:nowrap" class="ft50"><a href="https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19">covid-19.</a></p>
+<p style="position:absolute;top:519px;left:467px;white-space:nowrap" class="ft55"><a href="#page3-div">32&#160;</a>Offord&#160;C.&#160;The&#160;Surgisphere&#160;Scandal:&#160;What&#160;Went&#160;Wrong?&#160;<a href="https://www.the-scientist.com/features/the-surgisphere-scandal-what-went-wrong--67955">https://www.<br/>the-scientist.com/features/the-surgisphere-scandal-what-went-wrong</a></p>
+<p style="position:absolute;top:532px;left:845px;white-space:nowrap" class="ft50"><a href="https://www.the-scientist.com/features/the-surgisphere-scandal-what-went-wrong--67955">–</a></p>
+<p style="position:absolute;top:549px;left:467px;white-space:nowrap" class="ft50"><a href="https://www.the-scientist.com/features/the-surgisphere-scandal-what-went-wrong--67955">67955.</a></p>
+<p style="position:absolute;top:569px;left:467px;white-space:nowrap" class="ft56"><a href="#page3-div">33&#160;</a>Bryant&#160;A,&#160;Lawrie&#160;TA,&#160;Dowswell&#160;T&#160;et&#160;al.&#160;Ivermectin&#160;for&#160;prevention&#160;and<br/>treatment&#160;of&#160;COVID-19&#160;infection:&#160;a&#160;systematic&#160;review,&#160;meta-analysis,<br/>and&#160;trial&#160;sequential&#160;analysis&#160;to&#160;inform&#160;clinical&#160;guidelines.&#160;Am&#160;J&#160;Ther<br/>2021;&#160;28:&#160;e434</p>
+<p style="position:absolute;top:612px;left:548px;white-space:nowrap" class="ft50">–e60.&#160;<a href="https://doi.org/10.1097/MJT.0000000000001402">https://doi.org/10.1097/MJT.0000000000001402</a></p>
+<p style="position:absolute;top:634px;left:467px;white-space:nowrap" class="ft56"><a href="#page3-div">34&#160;</a>Kory&#160;P,&#160;Meduri&#160;GU,&#160;Varon&#160;J&#160;et&#160;al.&#160;Review&#160;of&#160;the&#160;emerging&#160;evidence<br/>demonstrating&#160;the&#160;ef</p>
+<p style="position:absolute;top:647px;left:584px;white-space:nowrap" class="ft50">ﬁcacy&#160;of&#160;ivermectin&#160;in&#160;the&#160;prophylaxis&#160;and&#160;treat-</p>
+<p style="position:absolute;top:664px;left:467px;white-space:nowrap" class="ft50">ment&#160;of&#160;COVID-19.&#160;Am&#160;J&#160;Ther&#160;2021;&#160;28:&#160;e299</p>
+<p style="position:absolute;top:662px;left:718px;white-space:nowrap" class="ft50">–e318.&#160;<a href="https://doi.org/10.1097/MJT.0000000000001377">https://doi.org/10.</a></p>
+<p style="position:absolute;top:679px;left:467px;white-space:nowrap" class="ft50"><a href="https://doi.org/10.1097/MJT.0000000000001377">1097/MJT.0000000000001377</a></p>
+<p style="position:absolute;top:699px;left:467px;white-space:nowrap" class="ft50"><a href="#page3-div">35&#160;</a>Elgazzar&#160;A,&#160;Hani&#160;B,&#160;Youssef&#160;SA&#160;et&#160;al.&#160;Retraction:&#160;Ef</p>
+<p style="position:absolute;top:697px;left:749px;white-space:nowrap" class="ft50">ﬁcacy&#160;and&#160;Safety&#160;of</p>
+<p style="position:absolute;top:714px;left:467px;white-space:nowrap" class="ft55">Ivermectin&#160;for&#160;Treatment&#160;and&#160;Prophylaxis&#160;of&#160;COVID-19&#160;Pandemic.&#160;2021.<br/><a href="https://www.researchsquare.com/article/rs-100956/v4">https://www.researchsquare.com/article/rs-100956/v4.</a></p>
+<p style="position:absolute;top:749px;left:467px;white-space:nowrap" class="ft56"><a href="#page3-div">36&#160;</a>Hill&#160;A,&#160;Mirchandani&#160;M,&#160;Pilkington&#160;V.&#160;Ivermectin&#160;for&#160;COVID-19:&#160;addres-<br/>sing&#160;potential&#160;bias&#160;and&#160;medical&#160;fraud.&#160;Open&#160;Forum&#160;Infect&#160;Dis&#160;2022;&#160;9:<br/>ofab645.&#160;<a href="https://doi.org/10.1093/ofid/ofab645">https://doi.org/10.1093/o</a></p>
+<p style="position:absolute;top:776px;left:651px;white-space:nowrap" class="ft50"><a href="https://doi.org/10.1093/ofid/ofab645">ﬁd/ofab645</a></p>
+<p style="position:absolute;top:799px;left:467px;white-space:nowrap" class="ft55"><a href="#page3-div">37&#160;</a>Thorlund&#160;K,&#160;Sheldrick&#160;K,&#160;Meyerowitz-Katz&#160;G&#160;et&#160;al.&#160;Making&#160;statistical<br/>sense&#160;of&#160;the&#160;molnupiravir&#160;MOVe-OUT&#160;clinical&#160;trial.&#160;Am&#160;J&#160;Trop&#160;Med&#160;Hyg<br/>2022;&#160;106:&#160;1301</p>
+<p style="position:absolute;top:826px;left:556px;white-space:nowrap" class="ft50">–4.&#160;<a href="https://doi.org/10.4269/ajtmh.21-1339">https://doi.org/10.4269/ajtmh.21-1339</a></p>
+<p style="position:absolute;top:848px;left:467px;white-space:nowrap" class="ft50"><a href="#page3-div">38&#160;</a>Brophy&#160;JM.&#160;Molnupiravir</p>
+<p style="position:absolute;top:846px;left:618px;white-space:nowrap" class="ft50">’s&#160;authorisation&#160;was&#160;premature.&#160;BMJ&#160;2022;</p>
+<p style="position:absolute;top:864px;left:467px;white-space:nowrap" class="ft50">376:&#160;o443.&#160;<a href="https://doi.org/10.1136/bmj.o443">https://doi.org/10.1136/bmj.o443</a></p>
+<p style="position:absolute;top:883px;left:467px;white-space:nowrap" class="ft56"><a href="#page4-div">39&#160;</a>Lawrence&#160;J,&#160;Mirchandani&#160;M,&#160;Hill&#160;A.&#160;Evaluation&#160;of&#160;publication&#160;bias&#160;for&#160;12<br/>clinical&#160;trials&#160;of&#160;molnupiravir&#160;to&#160;treat&#160;SARS-CoV-2&#160;infection&#160;in&#160;13,694&#160;pa-<br/>tients.&#160;<a href="https://www.researchsquare.com/article/rs-1913200/v1.pdf">https://www.researchsquare.com/article/rs-1913200/v1.pdf.</a></p>
+<p style="position:absolute;top:933px;left:467px;white-space:nowrap" class="ft56"><a href="#page4-div">40&#160;</a>Egger&#160;M,&#160;Schneider&#160;M,&#160;Davey&#160;Smith&#160;G.&#160;Spurious&#160;precision?<br/>Meta-analysis&#160;of&#160;observational&#160;studies.&#160;BMJ&#160;1998;&#160;316:&#160;140</p>
+<p style="position:absolute;top:946px;left:796px;white-space:nowrap" class="ft50">–4.&#160;<a href="https://doi.org/10.1136/bmj.316.7125.140">https://</a></p>
+<p style="position:absolute;top:963px;left:467px;white-space:nowrap" class="ft50"><a href="https://doi.org/10.1136/bmj.316.7125.140">doi.org/10.1136/bmj.316.7125.140</a></p>
+<p style="position:absolute;top:983px;left:467px;white-space:nowrap" class="ft56"><a href="#page4-div">41&#160;</a>Concato&#160;J,&#160;Shah&#160;N,&#160;Horwitz&#160;RI.&#160;Randomized,&#160;controlled&#160;trials,&#160;observa-<br/>tional&#160;studies,&#160;and&#160;the&#160;hierarchy&#160;of&#160;research&#160;designs.&#160;N&#160;Engl&#160;J&#160;Med&#160;2000;<br/>342:&#160;1887</p>
+<p style="position:absolute;top:1011px;left:522px;white-space:nowrap" class="ft50">–92.&#160;<a href="https://doi.org/10.1056/NEJM200006223422507">https://doi.org/10.1056/NEJM200006223422507</a></p>
+<p style="position:absolute;top:1033px;left:467px;white-space:nowrap" class="ft55"><a href="#page4-div">42&#160;</a>Jahanshahi&#160;M,&#160;Gregg&#160;K,&#160;Davis&#160;G&#160;et&#160;al.&#160;The&#160;use&#160;of&#160;external&#160;controls&#160;in<br/>FDA&#160;regulatory&#160;decision&#160;making.&#160;Ther&#160;Innov&#160;Regul&#160;Sci&#160;2021;&#160;55:<br/>1019</p>
+<p style="position:absolute;top:1061px;left:495px;white-space:nowrap" class="ft50">–35.&#160;<a href="https://doi.org/10.1007/s43441-021-00302-y">https://doi.org/10.1007/s43441-021-00302-y</a></p>
+<p style="position:absolute;top:70px;left:63px;white-space:nowrap" class="ft51">Viewpoint</p>
+<p style="position:absolute;top:1137px;left:819px;white-space:nowrap" class="ft52">5&#160;of&#160;5</p>
+<p style="position:absolute;top:245px;left:885px;white-space:nowrap" class="ft53">Downloaded from https://academic.oup.com/jac/advance-article/doi/10.1093/jac/dkac437/6961797 by guest on 09 January 2023</p>
+</div>
+</body>
+</html>
